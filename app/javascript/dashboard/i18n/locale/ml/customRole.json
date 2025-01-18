@@ -2,9 +2,9 @@
   "CUSTOM_ROLE": {
     "HEADER": "Custom Roles",
     "LEARN_MORE": "Learn more about custom roles",
-    "DESCRIPTION": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+    "DESCRIPTION": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
     "HEADER_BTN_TXT": "Add custom role",
-    "LOADING": "Fetching custom roles...",
+    "LOADING": "Carregando cargos...",
     "SEARCH_404": "ഈ ചോദ്യവുമായി പൊരുത്തപ്പെടുന്ന ഇനങ്ങളൊന്നുമില്ല.",
     "PAYWALL": {
       "TITLE": "Upgrade to create custom roles",
@@ -21,7 +21,7 @@
     "LIST": {
       "404": "There are no custom roles available in this account.",
       "TITLE": "Manage custom roles",
-      "DESC": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+      "DESC": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "TABLE_HEADER": [
         "പേര്",
         "വിവരണം",
@@ -30,27 +30,27 @@
       ]
     },
     "PERMISSIONS": {
-      "CONVERSATION_MANAGE": "Manage all conversations",
-      "CONVERSATION_UNASSIGNED_MANAGE": "Manage unassigned conversations and those assigned to them",
-      "CONVERSATION_PARTICIPATING_MANAGE": "Manage participating conversations and those assigned to them",
-      "CONTACT_MANAGE": "Manage contacts",
-      "REPORT_MANAGE": "Manage reports",
-      "KNOWLEDGE_BASE_MANAGE": "Manage knowledge base"
+      "CONVERSATION_MANAGE": "Gerenciar todas as conversas",
+      "CONVERSATION_UNASSIGNED_MANAGE": "Gerenciar conversas não atribuídas e aquelas atribuídas a eles",
+      "CONVERSATION_PARTICIPATING_MANAGE": "Gerenciar conversas participantes e aquelas atribuídas a eles",
+      "CONTACT_MANAGE": "Gerenciar contatos",
+      "REPORT_MANAGE": "Gerenciar relatórios",
+      "KNOWLEDGE_BASE_MANAGE": "Gerenciar base de conhecimento"
     },
     "FORM": {
       "NAME": {
         "LABEL": "പേര്",
-        "PLACEHOLDER": "Please enter a name.",
-        "ERROR": "Name is required."
+        "PLACEHOLDER": "Insira um nome.",
+        "ERROR": "O campo nome é obrigatório."
       },
       "DESCRIPTION": {
         "LABEL": "വിവരണം",
-        "PLACEHOLDER": "Please enter a description.",
+        "PLACEHOLDER": "Insira uma descrição.",
         "ERROR": "Description is required."
       },
       "PERMISSIONS": {
-        "LABEL": "Permissions",
-        "ERROR": "Permissions are required."
+        "LABEL": "Permissões",
+        "ERROR": "O campo permisões é obrigatório"
       },
       "CANCEL_BUTTON_TEXT": "റദ്ദാക്കുക",
       "API": {
@@ -58,33 +58,33 @@
       }
     },
     "ADD": {
-      "TITLE": "Add custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
+      "TITLE": "Adicionar cargo",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "SUBMIT": "സമർപ്പിക്കുക",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role added successfully."
+        "SUCCESS_MESSAGE": "Cargo criado com sucesso."
       }
     },
     "EDIT": {
       "BUTTON_TEXT": "എഡിറ്റുചെയ്യുക",
-      "TITLE": "Edit custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
+      "TITLE": "Editar cargo personalizado",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "SUBMIT": "അപ്‌ഡേറ്റ്",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role updated successfully."
+        "SUCCESS_MESSAGE": "Cargo atualizado com sucesso."
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "ഇല്ലാതാക്കുക",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role deleted successfully.",
+        "SUCCESS_MESSAGE": "Cargo deletado com sucesso.",
         "ERROR_MESSAGE": "സെർവറിലേക്ക് കണക്റ്റുചെയ്യാനായില്ല, ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക"
       },
       "CONFIRM": {
         "TITLE": "Confirm deletion",
         "MESSAGE": "<p><b>ഏജന്റുമാർ</b></p><p> ഒരു <b>ഏജൻറ്</b> നിങ്ങളുടെ ഉപഭോക്തൃ പിന്തുണാ ടീമിലെ ഒരു അംഗമാണ്. </p><p> ഏജന്റുമാർക്ക് നിങ്ങളുടെ ഉപയോക്താക്കളിൽ നിന്നുള്ള സന്ദേശങ്ങൾ കാണാനും മറുപടി നൽകാനും കഴിയും. നിങ്ങളുടെ അക്കൗണ്ടിലുള്ള എല്ലാ ഏജന്റുമാരെയും ഈ പട്ടിക കാണിക്കുന്നു. </ p> <p> ഒരു പുതിയ ഏജന്റിനെ ചേർക്കുന്നതിന് <b> ഏജന്റിനെ ചേർക്കുക </ b> ബട്ടൺ ക്ലിക്കുചെയ്യുക. നിങ്ങൾ ചേർത്ത ഏജന്റിന് അവരുടെ അക്കൗണ്ട് സജീവമാക്കുന്നതിന് ഒരു സ്ഥിരീകരണ ലിങ്കുള്ള ഇമെയിൽ ലഭിക്കും. അതിനുശേഷം അവർക്ക് ചാറ്റ് വൂട്ട് ആക്സസ് ചെയ്യാനും സന്ദേശങ്ങളോട് പ്രതികരിക്കാനും കഴിയും.</p> <p> ചാറ്റ് വൂട്ടിന്റെ സവിശേഷതകളിലേക്കുള്ള ആക്സസ് ഇനിപ്പറയുന്ന റോളുകളെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്. </p><p> <b>ഏജൻറ്</ b> - ഈ റോൾ‌ ഉള്ള ഏജന്റുമാർ‌ക്ക് ഇൻ‌ബോക്‍സുകൾ‌, റിപ്പോർ‌ട്ടുകൾ‌, സംഭാഷണങ്ങൾ‌ എന്നിവ മാത്രമേ ആക്‌സസ് ചെയ്യാൻ‌ കഴിയൂ. അവർക്ക് മറ്റ് ഏജന്റുമാരുടെയോ അല്ലെങ്കിൽ‌ തങ്ങളുടേയോ സംഭാഷണങ്ങൾ‌ നിർ‌ണ്ണയിക്കാനും സംഭാഷണങ്ങൾ‌ പരിഹരിക്കാനും കഴിയും.</p><p> <b>അഡ്മിനിസ്ട്രേറ്റർ</b> - ഒരു സാധാരണ ഏജന്റിന്റെ പ്രത്യേകാവകാശങ്ങളോടൊപ്പം ക്രമീകരണങ്ങളും ബില്ലിംഗും ഉൾപ്പെടെ നിങ്ങളുടെ അക്കൗണ്ടിൽ ലഭ്യമായ എല്ലാ ചാറ്റ് വൂട്ട് സവിശേഷതകളിലേക്കും ആക്‌സസ് ഉണ്ടായിരിക്കുക. </ p> ",
-        "YES": "Yes, delete ",
-        "NO": "No, keep "
+        "YES": "Sim ",
+        "NO": "Não, manter "
       }
     }
   }

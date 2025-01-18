@@ -22,7 +22,7 @@
         "ERROR": "Label Name is required"
       },
       "DESCRIPTION": {
-        "LABEL": "Description",
+        "LABEL": "Descrição",
         "PLACEHOLDER": "Label Description"
       },
       "COLOR": {
@@ -52,14 +52,14 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Label deleted successfully",
         "ERROR_MESSAGE": "There was an error, please try again"
       },
       "CONFIRM": {
         "TITLE": "Confirm Deletion",
-        "MESSAGE": "Are you sure to delete ",
+        "MESSAGE": "Tem certeza que deseja deletar? ",
         "YES": "Yes, Delete ",
         "NO": "No, Keep "
       }

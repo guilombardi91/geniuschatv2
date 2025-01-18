@@ -1,9 +1,9 @@
 {
   "SURVEY": {
-    "DESCRIPTION": "Dear customer 👋, please take a few moments to share feedback about the conversation you had with {inboxName}.",
+    "DESCRIPTION": "Olá 👋! Queremos saber como foi sua experiência com nosso atendimento. Pode nos contar?",
     "RATING": {
-      "LABEL": "Rate your conversation",
-      "SUCCESS_MESSAGE": "Thank you for submitting the rating"
+      "LABEL": "Avalie sua conversa",
+      "SUCCESS_MESSAGE": "Obrigado!"
     },
     "FEEDBACK": {
       "LABEL": "Do you have any thoughts you'd like to share?",
@@ -12,7 +12,7 @@
     },
     "API": {
       "SUCCESS_MESSAGE": "Survey updated successfully",
-      "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
     }
   },
   "POWERED_BY": "Chatwoot द्वारा संचालित"

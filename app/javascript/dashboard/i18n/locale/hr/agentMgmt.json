@@ -3,7 +3,7 @@
     "HEADER": "Agenti",
     "HEADER_BTN_TXT": "Dodaj agenta",
     "LOADING": "Dohvaćanje popisa agenata",
-    "DESCRIPTION": "An agent is a member of your customer support team who can view and respond to user messages. The list below shows all the agents in your account.",
+    "DESCRIPTION": "Um agente é um membro da sua equipe de suporte ao cliente que pode visualizar e responder às mensagens do usuário. A lista abaixo mostra todos os agentes na sua conta.",
     "LEARN_MORE": "Learn about user roles",
     "AGENT_TYPES": {
       "ADMINISTRATOR": "Administrator",
@@ -44,18 +44,18 @@
       "API": {
         "SUCCESS_MESSAGE": "Uspješno dodan agent",
         "EXIST_MESSAGE": "Agent email already in use, Please try another email address",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Izbriši",
       "API": {
         "SUCCESS_MESSAGE": "Agent uspješno izbrisan",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "CONFIRM": {
         "TITLE": "Potvrdi brisanje",
-        "MESSAGE": "Are you sure to delete ",
+        "MESSAGE": "Tem certeza que deseja deletar? ",
         "YES": "Da, izbriši",
         "NO": "Ne, zadrži"
       }
@@ -87,13 +87,13 @@
       "CANCEL_BUTTON_TEXT": "Odustani",
       "API": {
         "SUCCESS_MESSAGE": "Agent uspješno ažuriran",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "PASSWORD_RESET": {
         "ADMIN_RESET_BUTTON": "Ponovno postvljanje lozinke",
         "ADMIN_SUCCESS_MESSAGE": "An email with reset password instructions has been sent to the agent",
         "SUCCESS_MESSAGE": "Agent password reset successfully",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "SEARCH": {

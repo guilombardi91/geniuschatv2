@@ -3,7 +3,7 @@
     "HEADER": "Labels",
     "HEADER_BTN_TXT": "Add label",
     "LOADING": "Fetching labels",
-    "DESCRIPTION": "Labels help you categorize and prioritize conversations and leads. You can assign a label to a conversation or contact using the side panel.",
+    "DESCRIPTION": "Os rótulos ajudam você a categorizar e priorizar conversas e leads. Você pode atribuir um rótulo a uma conversa ou contato usando o painel lateral.",
     "LEARN_MORE": "Learn more about labels",
     "SEARCH_404": "There are no items matching this query",
     "LIST": {
@@ -25,7 +25,7 @@
         "VALID_ERROR": "Only Alphabets, Numbers, Hyphen and Underscore are allowed"
       },
       "DESCRIPTION": {
-        "LABEL": "Description",
+        "LABEL": "Descrição",
         "PLACEHOLDER": "Label Description"
       },
       "COLOR": {

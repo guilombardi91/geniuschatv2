@@ -1,6 +1,6 @@
 {
-  "name": "Chatwoot",
-  "short_name": "Chatwoot",
+  "name": "GeniusChat",
+  "short_name": "GeniusChat",
   "icons": [{
     "src": "\/android-icon-36x36.png",
     "sizes": "36x36",
@@ -38,7 +38,7 @@
     "density": "4.0"
    }],
   "start_url": "/",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "#1f93ff",
   "theme_color": "#1f93ff"
 }

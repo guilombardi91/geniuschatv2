@@ -42,7 +42,6 @@ export default {
   },
 };
 </script>
-
 <template>
   <div>
     <input
@@ -83,7 +82,6 @@ export default {
     </div>
   </div>
 </template>
-
 <style scoped lang="scss">
 .macros-list {
   padding: var(--space-smaller);
@@ -97,7 +95,6 @@ export default {
 .macros_add-button {
   margin: var(--space-small) auto 0;
 }
-
 .macros-search-input {
   width: 100%;
   padding: var(--space-small);

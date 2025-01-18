@@ -48,7 +48,7 @@
         "VALID_ERROR": "Aðeins stafrófsstafir, tölustafir, bandstrik og undirstrik eru leyfð"
       },
       "DESCRIPTION": {
-        "LABEL": "Description",
+        "LABEL": "Descrição",
         "PLACEHOLDER": "SLA for premium customers"
       },
       "FIRST_RESPONSE_TIME": {

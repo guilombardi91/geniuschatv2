@@ -114,7 +114,7 @@
   },
   "CONTACT_FORM": {
     "FORM": {
-      "SUBMIT": "Submit",
+      "SUBMIT": "Enviar",
       "CANCEL": "Batalkan",
       "AVATAR": {
         "LABEL": "Contact Avatar"
@@ -248,7 +248,7 @@
         "COMPANY": "Company",
         "EMAIL_ADDRESS": "Emel"
       },
-      "VIEW_DETAILS": "View details"
+      "VIEW_DETAILS": "Ver detalhes"
     }
   },
   "CONTACT_PROFILE": {

@@ -22,7 +22,7 @@
     "ADD": {
       "TITLE": "Add agent to your team",
       "DESC": "You can add people who will be able to handle support for your inboxes.",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "FORM": {
         "NAME": {
           "LABEL": "Agent Name",
@@ -42,18 +42,18 @@
       "API": {
         "SUCCESS_MESSAGE": "Agent added successfully",
         "EXIST_MESSAGE": "Agent email already in use, Please try another email address",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Agent deleted successfully",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "CONFIRM": {
         "TITLE": "Confirm Deletion",
-        "MESSAGE": "Are you sure to delete ",
+        "MESSAGE": "Tem certeza que deseja deletar? ",
         "YES": "Yes, Delete ",
         "NO": "No, Keep "
       }
@@ -76,17 +76,17 @@
         },
         "SUBMIT": "Edit Agent"
       },
-      "BUTTON_TEXT": "Edit",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "BUTTON_TEXT": "Editar",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "API": {
         "SUCCESS_MESSAGE": "Agent updated successfully",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "PASSWORD_RESET": {
         "ADMIN_RESET_BUTTON": "Reset Password",
         "ADMIN_SUCCESS_MESSAGE": "An email with reset password instructions has been sent to the agent",
         "SUCCESS_MESSAGE": "Agent password reset successfully",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "SEARCH": {

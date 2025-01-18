@@ -63,7 +63,7 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "CONFIRM": {
         "TITLE": "நீக்குதலை உறுதிப்படுத்தவும்",
         "MESSAGE": "Are you sure to delete?",

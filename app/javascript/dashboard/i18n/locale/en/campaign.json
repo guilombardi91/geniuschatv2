@@ -21,7 +21,7 @@
       },
       "CREATE": {
         "TITLE": "Create a live chat campaign",
-        "CANCEL_BUTTON_TEXT": "Cancel",
+        "CANCEL_BUTTON_TEXT": "Cancelar",
         "CREATE_BUTTON_TEXT": "Create",
         "FORM": {
           "TITLE": {
@@ -98,7 +98,7 @@
       },
       "CREATE": {
         "TITLE": "Create SMS campaign",
-        "CANCEL_BUTTON_TEXT": "Cancel",
+        "CANCEL_BUTTON_TEXT": "Cancelar",
         "CREATE_BUTTON_TEXT": "Create",
         "FORM": {
           "TITLE": {

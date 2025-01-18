@@ -553,17 +553,17 @@ export const AUTOMATION_ACTION_TYPES = [
   },
   {
     key: 'assign_team',
-    label: 'Assign a team',
+    label: 'Atribuir a um time',
     inputType: 'search_select',
   },
   {
     key: 'add_label',
-    label: 'Add a label',
+    label: 'Adicionar etiqueta',
     inputType: 'multi_select',
   },
   {
     key: 'remove_label',
-    label: 'Remove a label',
+    label: 'Remover  etiqueta',
     inputType: 'multi_select',
   },
   {
@@ -573,12 +573,12 @@ export const AUTOMATION_ACTION_TYPES = [
   },
   {
     key: 'send_email_transcript',
-    label: 'Send an email transcript',
+    label: 'Enviar um email com a transcrição',
     inputType: 'email',
   },
   {
     key: 'mute_conversation',
-    label: 'Mute conversation',
+    label: 'Mutar conversa',
     inputType: null,
   },
   {
@@ -588,7 +588,7 @@ export const AUTOMATION_ACTION_TYPES = [
   },
   {
     key: 'resolve_conversation',
-    label: 'Resolve conversation',
+    label: 'Resolver conversa',
     inputType: null,
   },
   {
@@ -598,17 +598,17 @@ export const AUTOMATION_ACTION_TYPES = [
   },
   {
     key: 'send_attachment',
-    label: 'Send Attachment',
+    label: 'Enviar anexo',
     inputType: 'attachment',
   },
   {
     key: 'send_message',
-    label: 'Send a message',
+    label: 'Enviar mensagem',
     inputType: 'textarea',
   },
   {
     key: 'change_priority',
-    label: 'Change Priority',
+    label: 'Mudar prioridade',
     inputType: 'search_select',
   },
   {

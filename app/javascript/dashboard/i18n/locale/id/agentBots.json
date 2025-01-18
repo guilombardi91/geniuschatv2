@@ -56,7 +56,7 @@
       }
     },
     "EDIT": {
-      "BUTTON_TEXT": "Edit",
+      "BUTTON_TEXT": "Editar",
       "LOADING": "Fetching bots...",
       "TITLE": "Edit bot",
       "CANCEL_BUTTON_TEXT": "Batalkan",

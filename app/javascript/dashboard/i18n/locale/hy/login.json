@@ -12,7 +12,7 @@
     },
     "API": {
       "SUCCESS_MESSAGE": "Login Successful",
-      "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later",
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde.",
       "UNAUTH": "Username / Password Incorrect. Please try again"
     },
     "OAUTH": {

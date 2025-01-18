@@ -1,7 +1,7 @@
 {
   "INTEGRATION_SETTINGS": {
     "HEADER": "சேர்ப்புகள்",
-    "DESCRIPTION": "Chatwoot integrates with multiple tools and services to improve your team's efficiency. Explore the list below to configure your favorite apps.",
+    "DESCRIPTION": "O GeniusChat integra-se com várias ferramentas e serviços para melhorar a eficiência da sua equipe. Explore a lista abaixo para configurar seus aplicativos favoritos.",
     "LEARN_MORE": "Learn more about integrations",
     "LOADING": "Fetching integrations",
     "CAPTAIN": {
@@ -66,7 +66,7 @@
         }
       },
       "DELETE": {
-        "BUTTON_TEXT": "Delete",
+        "BUTTON_TEXT": "Deletar",
         "API": {
           "SUCCESS_MESSAGE": "வெப்ஹூக் வெற்றிகரமாக நீக்கப்பட்டது",
           "ERROR_MESSAGE": "வூட் சர்வருடன் இணைக்க முடியவில்ல, மீண்டும் முயற்சிக்கவும்"
@@ -163,7 +163,7 @@
       "GENERATE_ERROR": "There was an error processing the content, please try again"
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Integration deleted successfully"
       }
@@ -241,7 +241,7 @@
             "REQUIRED_ERROR": "Title is required"
           },
           "DESCRIPTION": {
-            "LABEL": "Description",
+            "LABEL": "Descrição",
             "PLACEHOLDER": "Enter description"
           },
           "TEAM": {

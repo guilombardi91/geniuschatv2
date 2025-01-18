@@ -103,7 +103,7 @@
     "DESC": "Delete contact details",
     "CONFIRM": {
       "TITLE": "Confirm Deletion",
-      "MESSAGE": "Are you sure to delete ",
+      "MESSAGE": "Tem certeza que deseja deletar? ",
       "YES": "Yes, Delete",
       "NO": "No, Keep"
     },
@@ -248,7 +248,7 @@
         "COMPANY": "Company",
         "EMAIL_ADDRESS": "Email Address"
       },
-      "VIEW_DETAILS": "View details"
+      "VIEW_DETAILS": "Ver detalhes"
     }
   },
   "CONTACT_PROFILE": {

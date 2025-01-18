@@ -3,7 +3,7 @@
     "HEADER": "Audit Logs",
     "HEADER_BTN_TXT": "Add Audit Logs",
     "LOADING": "Fetching Audit Logs",
-    "DESCRIPTION": "Audit Logs maintain a record of activities in your account, allowing you to track and audit your account, team, or services.",
+    "DESCRIPTION": "Registros de Auditoria mantêm um histórico das atividades em sua conta, permitindo que você rastreie e audite sua conta, equipe ou serviços.",
     "LEARN_MORE": "Learn more about audit logs",
     "SEARCH_404": "There are no items matching this query",
     "SIDEBAR_TXT": "<p><b>Audit Logs</b> </p><p> Audit Logs are trails for events and actions in a Chatwoot System. </p>",
@@ -15,7 +15,7 @@
     },
     "API": {
       "SUCCESS_MESSAGE": "AuditLogs retrieved successfully",
-      "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
     },
     "DEFAULT_USER": "System",
     "AUTOMATION_RULE": {

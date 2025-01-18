@@ -155,7 +155,7 @@ export default {
           >
             <img
               class="max-w-2.5 max-h-2.5"
-              :src="globalConfig.logoThumbnail"
+              src="https://pricetecnologia.com.br/images/logo_thumbnail3.svg"
             />
             <span>
               {{

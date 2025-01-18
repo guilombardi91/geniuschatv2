@@ -241,9 +241,9 @@
   "ONBOARDING": {
     "TITLE": "سلام 👋، خوش آمدی به {installationName}!",
     "DESCRIPTION": "از این که ثبت نام کرده اید سپاسگذاریم. ما ماخواهیم بهترین تجربه را از {installationName} داشته باشید. در اینجا چند کار وجود دارد که می توانید در {installationName} انجام دهید تا تجربه بهتری داشته باشید.",
-    "GREETING_MORNING": "👋 Good morning, {name}. Welcome to {installationName}.",
-    "GREETING_AFTERNOON": "👋 Good afternoon, {name}. Welcome to {installationName}.",
-    "GREETING_EVENING": "👋 Good evening, {name}. Welcome to {installationName}.",
+    "GREETING_MORNING": "👋 Bom dia, {name}. Bem-vindo ao GeniusChat.",
+    "GREETING_AFTERNOON": "👋 Boa tarde, {name}. Bem-vindo ao GeniusChat.",
+    "GREETING_EVENING": "👋 Boa noite, {name}. Bem-vindo ao GeniusChat.",
     "READ_LATEST_UPDATES": "آخرین به روزرسانی های ما را بخوانید",
     "ALL_CONVERSATION": {
       "TITLE": "همه مکالمات شما در یک مکان",
@@ -261,9 +261,9 @@
       "NEW_LINK": "برای ایجاد برچسب ها اینجا را کلیک کنید"
     },
     "CANNED_RESPONSES": {
-      "TITLE": "Create canned responses",
-      "DESCRIPTION": "Pre-written quick reply templates help you quickly respond to a conversation. Agents can type the '/' character followed by the shortcode to insert a response.",
-      "NEW_LINK": "Click here to create a canned response"
+      "TITLE": "Crie respostas prontas",
+      "DESCRIPTION": "Modelos de resposta rápida pré-escritos ajudam você a responder rapidamente a uma conversa. Os agentes podem digitar o caractere '/' seguido pelo shortcode para inserir uma resposta.",
+      "NEW_LINK": "Clique aqui para criar uma resposta pronta"
     }
   },
   "CONVERSATION_SIDEBAR": {

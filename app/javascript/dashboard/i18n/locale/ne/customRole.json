@@ -2,9 +2,9 @@
   "CUSTOM_ROLE": {
     "HEADER": "Custom Roles",
     "LEARN_MORE": "Learn more about custom roles",
-    "DESCRIPTION": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+    "DESCRIPTION": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
     "HEADER_BTN_TXT": "Add custom role",
-    "LOADING": "Fetching custom roles...",
+    "LOADING": "Carregando cargos...",
     "SEARCH_404": "There are no items matching this query.",
     "PAYWALL": {
       "TITLE": "Upgrade to create custom roles",
@@ -21,7 +21,7 @@
     "LIST": {
       "404": "There are no custom roles available in this account.",
       "TITLE": "Manage custom roles",
-      "DESC": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+      "DESC": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "TABLE_HEADER": [
         "Name",
         "Description",
@@ -30,61 +30,61 @@
       ]
     },
     "PERMISSIONS": {
-      "CONVERSATION_MANAGE": "Manage all conversations",
-      "CONVERSATION_UNASSIGNED_MANAGE": "Manage unassigned conversations and those assigned to them",
-      "CONVERSATION_PARTICIPATING_MANAGE": "Manage participating conversations and those assigned to them",
-      "CONTACT_MANAGE": "Manage contacts",
-      "REPORT_MANAGE": "Manage reports",
-      "KNOWLEDGE_BASE_MANAGE": "Manage knowledge base"
+      "CONVERSATION_MANAGE": "Gerenciar todas as conversas",
+      "CONVERSATION_UNASSIGNED_MANAGE": "Gerenciar conversas não atribuídas e aquelas atribuídas a eles",
+      "CONVERSATION_PARTICIPATING_MANAGE": "Gerenciar conversas participantes e aquelas atribuídas a eles",
+      "CONTACT_MANAGE": "Gerenciar contatos",
+      "REPORT_MANAGE": "Gerenciar relatórios",
+      "KNOWLEDGE_BASE_MANAGE": "Gerenciar base de conhecimento"
     },
     "FORM": {
       "NAME": {
-        "LABEL": "Name",
-        "PLACEHOLDER": "Please enter a name.",
-        "ERROR": "Name is required."
+        "LABEL": "Nome",
+        "PLACEHOLDER": "Insira um nome.",
+        "ERROR": "O campo nome é obrigatório."
       },
       "DESCRIPTION": {
-        "LABEL": "Description",
-        "PLACEHOLDER": "Please enter a description.",
+        "LABEL": "Descrição",
+        "PLACEHOLDER": "Insira uma descrição.",
         "ERROR": "Description is required."
       },
       "PERMISSIONS": {
-        "LABEL": "Permissions",
-        "ERROR": "Permissions are required."
+        "LABEL": "Permissões",
+        "ERROR": "O campo permisões é obrigatório"
       },
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "API": {
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "ADD": {
-      "TITLE": "Add custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
+      "TITLE": "Adicionar cargo",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "SUBMIT": "बुझाउनुहोस्",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role added successfully."
+        "SUCCESS_MESSAGE": "Cargo criado com sucesso."
       }
     },
     "EDIT": {
-      "BUTTON_TEXT": "Edit",
-      "TITLE": "Edit custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
-      "SUBMIT": "Update",
+      "BUTTON_TEXT": "Editar",
+      "TITLE": "Editar cargo personalizado",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
+      "SUBMIT": "Atualizar",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role updated successfully."
+        "SUCCESS_MESSAGE": "Cargo atualizado com sucesso."
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role deleted successfully.",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "SUCCESS_MESSAGE": "Cargo deletado com sucesso.",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "CONFIRM": {
         "TITLE": "Confirm deletion",
-        "MESSAGE": "Are you sure to delete ",
-        "YES": "Yes, delete ",
-        "NO": "No, keep "
+        "MESSAGE": "Tem certeza que deseja deletar? ",
+        "YES": "Sim ",
+        "NO": "Não, manter "
       }
     }
   }

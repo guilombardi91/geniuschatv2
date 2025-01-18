@@ -1,8 +1,8 @@
 {
   "SURVEY": {
-    "DESCRIPTION": "Dear customer 👋, please take a few moments to share feedback about the conversation you had with {inboxName}.",
+    "DESCRIPTION": "Olá 👋! Queremos saber como foi sua experiência com nosso atendimento. Pode nos contar?",
     "RATING": {
-      "LABEL": "Rate your conversation",
+      "LABEL": "Avalie sua conversa",
       "SUCCESS_MESSAGE": "感謝您提交的評分"
     },
     "FEEDBACK": {
@@ -15,5 +15,5 @@
       "ERROR_MESSAGE": "無法連接伺服器，請稍後再試"
     }
   },
-  "POWERED_BY": "Powered by Chatwoot"
+  "POWERED_BY": "Desenvolvido por Price Tecnologia"
 }

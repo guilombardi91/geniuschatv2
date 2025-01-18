@@ -1,7 +1,7 @@
 {
   "INTEGRATION_SETTINGS": {
     "HEADER": "Integrations",
-    "DESCRIPTION": "Chatwoot integrates with multiple tools and services to improve your team's efficiency. Explore the list below to configure your favorite apps.",
+    "DESCRIPTION": "O GeniusChat integra-se com várias ferramentas e serviços para melhorar a eficiência da sua equipe. Explore a lista abaixo para configurar seus aplicativos favoritos.",
     "LEARN_MORE": "Learn more about integrations",
     "LOADING": "Fetching integrations",
     "CAPTAIN": {
@@ -53,11 +53,11 @@
         ]
       },
       "EDIT": {
-        "BUTTON_TEXT": "Edit",
+        "BUTTON_TEXT": "Editar",
         "TITLE": "Edit webhook",
         "API": {
           "SUCCESS_MESSAGE": "Webhook configuration updated successfully",
-          "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+          "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
         }
       },
       "ADD": {
@@ -65,14 +65,14 @@
         "TITLE": "Add new webhook",
         "API": {
           "SUCCESS_MESSAGE": "Webhook configuration added successfully",
-          "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+          "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
         }
       },
       "DELETE": {
-        "BUTTON_TEXT": "Delete",
+        "BUTTON_TEXT": "Deletar",
         "API": {
           "SUCCESS_MESSAGE": "Webhook deleted successfully",
-          "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+          "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
         },
         "CONFIRM": {
           "TITLE": "Confirm Deletion",
@@ -166,7 +166,7 @@
       "GENERATE_ERROR": "There was an error processing the content, please try again"
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Integration deleted successfully"
       }
@@ -247,7 +247,7 @@
             "REQUIRED_ERROR": "Title is required"
           },
           "DESCRIPTION": {
-            "LABEL": "Description",
+            "LABEL": "Descrição",
             "PLACEHOLDER": "Enter description"
           },
           "TEAM": {

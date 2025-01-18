@@ -237,7 +237,7 @@
           "IMAGE_DELETE_ERROR": "Fehler beim Löschen des Logos"
         },
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Portalname",
           "HELP_TEXT": "Der Name wird intern im öffentlich zugänglichen Portal verwendet.",
           "ERROR": "Name wird benötigt"
@@ -378,7 +378,7 @@
         "PORTAL": "Portal",
         "LOCALE": "Sprache",
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Kategoriename",
           "HELP_TEXT": "Der Kategoriename und das Symbol werden im öffentlich zugänglichen Portal verwendet, um Artikel zu kategorisieren.",
           "ERROR": "Name wird benötigt"
@@ -409,7 +409,7 @@
         "PORTAL": "Portal",
         "LOCALE": "Sprache",
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Kategoriename",
           "HELP_TEXT": "Der Kategoriename und das Symbol werden im öffentlich zugänglichen Portal verwendet, um Artikel zu kategorisieren.",
           "ERROR": "Name wird benötigt"

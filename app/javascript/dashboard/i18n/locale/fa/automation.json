@@ -1,7 +1,7 @@
 {
   "AUTOMATION": {
     "HEADER": "خودکارسازی",
-    "DESCRIPTION": "Automation can replace and streamline existing processes that require manual effort, such as adding labels and assigning conversations to the most suitable agent. This allows the team to focus on their strengths while reducing time spent on routine tasks.",
+    "DESCRIPTION": "A automação pode substituir e simplificar processos existentes que exigem esforço manual, como adicionar rótulos e atribuir conversas ao agente mais adequado. Isso permite que a equipe se concentre em seus pontos fortes, ao mesmo tempo em que reduz o tempo gasto em tarefas de rotina.",
     "LEARN_MORE": "Learn more about automation",
     "HEADER_BTN_TXT": "افزودن قانون خودکارسازی",
     "LOADING": "واکشی قوانین اتوماسیون",

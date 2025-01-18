@@ -289,7 +289,7 @@
           "ERROR": "Este campo é obrigatório"
         },
         "EMAIL": {
-          "LABEL": "e-mail",
+          "LABEL": "E-mail",
           "SUBTITLE": "E-mail para onde os seus clientes lhe enviam tickets de suporte",
           "PLACEHOLDER": "e-mail"
         },

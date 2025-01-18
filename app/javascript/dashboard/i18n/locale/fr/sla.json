@@ -48,7 +48,7 @@
         "VALID_ERROR": "Seuls les caractères alphabétiques, les chiffres, les traits d'union et les tirets bas sont autorisés"
       },
       "DESCRIPTION": {
-        "LABEL": "Description",
+        "LABEL": "Descrição",
         "PLACEHOLDER": "SLA for premium customers"
       },
       "FIRST_RESPONSE_TIME": {

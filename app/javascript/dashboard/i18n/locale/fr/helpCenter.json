@@ -390,7 +390,7 @@
           "ERROR": "Le Slug est requis"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Donner une courte description de la catégorie.",
           "ERROR": "La description est requise"
         },
@@ -421,7 +421,7 @@
           "ERROR": "Le Slug est requis"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Donner une courte description de la catégorie.",
           "ERROR": "La description est requise"
         },

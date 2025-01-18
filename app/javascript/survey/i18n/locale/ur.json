@@ -1,9 +1,9 @@
 {
   "SURVEY": {
-    "DESCRIPTION": "Dear customer 👋, please take a few moments to share feedback about the conversation you had with {inboxName}.",
+    "DESCRIPTION": "Olá 👋! Queremos saber como foi sua experiência com nosso atendimento. Pode nos contar?",
     "RATING": {
-      "LABEL": "Rate your conversation",
-      "SUCCESS_MESSAGE": "Thank you for submitting the rating"
+      "LABEL": "Avalie sua conversa",
+      "SUCCESS_MESSAGE": "Obrigado!"
     },
     "FEEDBACK": {
       "LABEL": "Do you have any thoughts you'd like to share?",
@@ -15,5 +15,5 @@
       "ERROR_MESSAGE": "ووٹ سرور کے ساتھ رابطہ ممکن نہی ہوسکا ، براہ کرم کچھ دیر بعد کوشش کریں"
     }
   },
-  "POWERED_BY": "Powered by Chatwoot"
+  "POWERED_BY": "Desenvolvido por Price Tecnologia"
 }

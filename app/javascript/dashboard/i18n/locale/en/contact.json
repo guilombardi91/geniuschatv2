@@ -63,7 +63,7 @@
     "DESC": "Delete contact details",
     "CONFIRM": {
       "TITLE": "Confirm Deletion",
-      "MESSAGE": "Are you sure to delete ",
+      "MESSAGE": "Tem certeza que deseja deletar? ",
       "YES": "Yes, Delete",
       "NO": "No, Keep"
     },
@@ -74,7 +74,7 @@
   },
   "CONTACT_FORM": {
     "FORM": {
-      "SUBMIT": "Submit",
+      "SUBMIT": "Enviar",
       "CANCEL": "Cancel",
       "AVATAR": {
         "LABEL": "Contact Avatar"
@@ -346,7 +346,7 @@
           "CREATE_SEGMENT": {
             "TITLE": "Do you want to save this filter?",
             "CONFIRM": "Save filter",
-            "LABEL": "Name",
+            "LABEL": "Nome",
             "PLACEHOLDER": "Enter the name of the filter",
             "ERROR": "Enter a valid name",
             "SUCCESS_MESSAGE": "Filter saved successfully",
@@ -364,7 +364,7 @@
       }
     },
     "PAGINATION_FOOTER": {
-      "SHOWING": "Showing {startItem} - {endItem} of {totalItems} contacts"
+      "SHOWING": "Mostrando {startItem} - {endItem} de {totalItems} contatos"
     },
     "FILTER": {
       "NAME": "Name",
@@ -398,7 +398,7 @@
     },
     "CARD": {
       "OF": "of",
-      "VIEW_DETAILS": "View details",
+      "VIEW_DETAILS": "Ver detalhes",
       "EDIT_DETAILS_FORM": {
         "TITLE": "Edit contact details",
         "FORM": {
@@ -492,7 +492,7 @@
       "ATTRIBUTES": {
         "SEARCH_PLACEHOLDER": "Search for attributes",
         "UNUSED_ATTRIBUTES": "{count} Used attribute | {count} Unused attributes",
-        "EMPTY_STATE": "There are no contact custom attributes available in this account. You can create a custom attribute in settings.",
+        "EMPTY_STATE": "Não há atributos personalizados de contato disponíveis nesta conta. Você pode criar um atributo personalizado nas configurações.",
         "YES": "Yes",
         "NO": "No",
         "TRIGGER": {
@@ -516,7 +516,7 @@
       },
       "MERGE": {
         "TITLE": "Merge contact",
-        "DESCRIPTION": "Combine two profiles into one, including all attributes and conversations. In case of conflict, the primary contact’s attributes will take precedence.",
+        "DESCRIPTION": "Combine dois perfis em um, incluindo todos os atributos e conversas. Em caso de conflito, os atributos do contato principal terão precedência.",
         "PRIMARY": "Primary contact",
         "PRIMARY_HELP_LABEL": "To be saved",
         "PRIMARY_REQUIRED_ERROR": "Please select a contact to merge with before proceeding",

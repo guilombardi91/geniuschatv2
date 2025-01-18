@@ -23,7 +23,7 @@
     "BOT_CONFIGURATION": {
       "TITLE": "Select an agent bot",
       "DESC": "Assign an Agent Bot to your inbox. They can handle initial conversations and transfer them to a live agent when necessary.",
-      "SUBMIT": "Update",
+      "SUBMIT": "Atualizar",
       "DISCONNECT": "Disconnect bot",
       "SUCCESS_MESSAGE": "Successfully updated the agent bot.",
       "DISCONNECTED_SUCCESS_MESSAGE": "Successfully disconnected the agent bot.",
@@ -33,7 +33,7 @@
     },
     "ADD": {
       "TITLE": "Configure new bot",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "API": {
         "SUCCESS_MESSAGE": "Bot added successfully.",
         "ERROR_MESSAGE": "Could not add bot. Please try again later."
@@ -45,10 +45,10 @@
       "TYPE": "Bot type"
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "TITLE": "Delete bot",
       "SUBMIT": "Delete",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "DESCRIPTION": "Are you sure you want to delete this bot? This action is irreversible.",
       "API": {
         "SUCCESS_MESSAGE": "Bot deleted successfully.",
@@ -56,10 +56,10 @@
       }
     },
     "EDIT": {
-      "BUTTON_TEXT": "Edit",
+      "BUTTON_TEXT": "Editar",
       "LOADING": "Fetching bots...",
       "TITLE": "Edit bot",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "API": {
         "SUCCESS_MESSAGE": "Bot updated successfully.",
         "ERROR_MESSAGE": "Could not update bot. Please try again."

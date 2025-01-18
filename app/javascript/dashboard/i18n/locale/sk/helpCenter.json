@@ -390,7 +390,7 @@
           "ERROR": "Slug is required"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Give a short description about the category.",
           "ERROR": "Description is required"
         },
@@ -421,7 +421,7 @@
           "ERROR": "Slug is required"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Give a short description about the category.",
           "ERROR": "Description is required"
         },

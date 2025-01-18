@@ -189,7 +189,7 @@ export default {
           </label>
           <label :class="{ error: v$.locale.$error }">
             {{ $t('GENERAL_SETTINGS.FORM.LANGUAGE.LABEL') }}
-            <select v-model="locale">
+            <select v-model="locale" disabled>
               <option
                 v-for="lang in languagesSortedByCode"
                 :key="lang.iso_639_1_code"

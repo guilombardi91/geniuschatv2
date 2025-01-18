@@ -3,7 +3,7 @@
     "HEADER": "ஏஜென்ட்கள்",
     "HEADER_BTN_TXT": "ஏஜென்ட்களைச் சேர்க்க",
     "LOADING": "ஏஜென்ட் பட்டியலைப் பெறபடுகிறது",
-    "DESCRIPTION": "An agent is a member of your customer support team who can view and respond to user messages. The list below shows all the agents in your account.",
+    "DESCRIPTION": "Um agente é um membro da sua equipe de suporte ao cliente que pode visualizar e responder às mensagens do usuário. A lista abaixo mostra todos os agentes na sua conta.",
     "LEARN_MORE": "Learn about user roles",
     "AGENT_TYPES": {
       "ADMINISTRATOR": "நிர்வாகி",
@@ -48,7 +48,7 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "ஏஜென்ட் வெற்றிகரமாக நீக்கப்பட்டார்",
         "ERROR_MESSAGE": "வூட் சர்வருடன் இணைக்க முடியவில்ல, மீண்டும் முயற்சிக்கவும்"

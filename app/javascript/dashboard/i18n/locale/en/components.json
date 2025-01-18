@@ -1,6 +1,6 @@
 {
   "PAGINATION_FOOTER": {
-    "SHOWING": "Showing {startItem} - {endItem} of {totalItems} items",
+    "SHOWING": "Mostrando {startItem} - {endItem} de {totalItems} items",
     "CURRENT_PAGE_INFO": "{currentPage} of {totalPages} pages"
   },
   "COMBOBOX": {

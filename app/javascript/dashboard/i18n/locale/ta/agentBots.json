@@ -45,7 +45,7 @@
       "TYPE": "Bot type"
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "TITLE": "Delete bot",
       "SUBMIT": "Delete",
       "CANCEL_BUTTON_TEXT": "ரத்துசெய்",

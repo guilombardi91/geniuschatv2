@@ -2,7 +2,7 @@
   "CANNED_MGMT": {
     "HEADER": "Canned Responses",
     "LEARN_MORE": "Learn more about canned responses",
-    "DESCRIPTION": "Canned Responses are pre-written reply templates that help you quickly respond to a conversation. Agents can type the '/' character followed by the shortcode to insert a canned response during a conversation. ",
+    "DESCRIPTION": "Respostas Prontas são modelos de respostas pré-escritas que ajudam você a responder rapidamente a uma conversa. Os agentes podem digitar o caractere '/' seguido pelo código curto para inserir uma resposta pronta durante uma conversa. ",
     "HEADER_BTN_TXT": "Add canned response",
     "LOADING": "Fetching canned responses...",
     "SEARCH_404": "There are no items matching this query.",
@@ -19,7 +19,7 @@
     "ADD": {
       "TITLE": "Add canned response",
       "DESC": "Canned Responses are predefined reply templates which can be used to quickly send out replies to conversations.",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "FORM": {
         "SHORT_CODE": {
           "LABEL": "Short code",
@@ -35,12 +35,12 @@
       },
       "API": {
         "SUCCESS_MESSAGE": "Canned response added successfully.",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "EDIT": {
       "TITLE": "Edit canned response",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "FORM": {
         "SHORT_CODE": {
           "LABEL": "Short code",
@@ -54,23 +54,23 @@
         },
         "SUBMIT": "Submit"
       },
-      "BUTTON_TEXT": "Edit",
+      "BUTTON_TEXT": "Editar",
       "API": {
         "SUCCESS_MESSAGE": "Canned response is updated successfully.",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Canned response deleted successfully.",
-        "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Price. Tente novamente mais tarde."
       },
       "CONFIRM": {
         "TITLE": "Confirm deletion",
-        "MESSAGE": "Are you sure to delete ",
-        "YES": "Yes, delete ",
-        "NO": "No, keep "
+        "MESSAGE": "Tem certeza que deseja deletar? ",
+        "YES": "Sim ",
+        "NO": "Não, manter "
       }
     }
   }

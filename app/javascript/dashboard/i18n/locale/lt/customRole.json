@@ -2,9 +2,9 @@
   "CUSTOM_ROLE": {
     "HEADER": "Custom Roles",
     "LEARN_MORE": "Learn more about custom roles",
-    "DESCRIPTION": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+    "DESCRIPTION": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
     "HEADER_BTN_TXT": "Add custom role",
-    "LOADING": "Fetching custom roles...",
+    "LOADING": "Carregando cargos...",
     "SEARCH_404": "Šią užklausą atitinkančių elementų nėra.",
     "PAYWALL": {
       "TITLE": "Upgrade to create custom roles",
@@ -21,7 +21,7 @@
     "LIST": {
       "404": "There are no custom roles available in this account.",
       "TITLE": "Manage custom roles",
-      "DESC": "Custom roles are roles that are created by the account owner or admin. These roles can be assigned to agents to define their access and permissions within the account. Custom roles can be created with specific permissions and access levels to suit the requirements of the organization.",
+      "DESC": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "TABLE_HEADER": [
         "Vardas",
         "Aprašymas",
@@ -30,27 +30,27 @@
       ]
     },
     "PERMISSIONS": {
-      "CONVERSATION_MANAGE": "Manage all conversations",
-      "CONVERSATION_UNASSIGNED_MANAGE": "Manage unassigned conversations and those assigned to them",
-      "CONVERSATION_PARTICIPATING_MANAGE": "Manage participating conversations and those assigned to them",
-      "CONTACT_MANAGE": "Manage contacts",
-      "REPORT_MANAGE": "Manage reports",
-      "KNOWLEDGE_BASE_MANAGE": "Manage knowledge base"
+      "CONVERSATION_MANAGE": "Gerenciar todas as conversas",
+      "CONVERSATION_UNASSIGNED_MANAGE": "Gerenciar conversas não atribuídas e aquelas atribuídas a eles",
+      "CONVERSATION_PARTICIPATING_MANAGE": "Gerenciar conversas participantes e aquelas atribuídas a eles",
+      "CONTACT_MANAGE": "Gerenciar contatos",
+      "REPORT_MANAGE": "Gerenciar relatórios",
+      "KNOWLEDGE_BASE_MANAGE": "Gerenciar base de conhecimento"
     },
     "FORM": {
       "NAME": {
         "LABEL": "Vardas",
-        "PLACEHOLDER": "Please enter a name.",
+        "PLACEHOLDER": "Insira um nome.",
         "ERROR": "Yra reikalingas vardas."
       },
       "DESCRIPTION": {
         "LABEL": "Aprašymas",
-        "PLACEHOLDER": "Please enter a description.",
+        "PLACEHOLDER": "Insira uma descrição.",
         "ERROR": "Būtinas aprašymas."
       },
       "PERMISSIONS": {
-        "LABEL": "Permissions",
-        "ERROR": "Permissions are required."
+        "LABEL": "Permissões",
+        "ERROR": "O campo permisões é obrigatório"
       },
       "CANCEL_BUTTON_TEXT": "Atšaukti",
       "API": {
@@ -58,26 +58,26 @@
       }
     },
     "ADD": {
-      "TITLE": "Add custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
+      "TITLE": "Adicionar cargo",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "SUBMIT": "Pateikti",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role added successfully."
+        "SUCCESS_MESSAGE": "Cargo criado com sucesso."
       }
     },
     "EDIT": {
       "BUTTON_TEXT": "Redaguoti",
-      "TITLE": "Edit custom role",
-      "DESC": " Custom roles allows you to create roles with specific permissions and access levels to suit the requirements of the organization.",
+      "TITLE": "Editar cargo personalizado",
+      "DESC": " Cargos personalizados permitem que você crie funções com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "SUBMIT": "Atnaujinti",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role updated successfully."
+        "SUCCESS_MESSAGE": "Cargo atualizado com sucesso."
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Ištrinti",
       "API": {
-        "SUCCESS_MESSAGE": "Custom role deleted successfully.",
+        "SUCCESS_MESSAGE": "Cargo deletado com sucesso.",
         "ERROR_MESSAGE": "Nepavyko prisijungti prie Woot serverio. Bandykite dar kartą vėliau."
       },
       "CONFIRM": {

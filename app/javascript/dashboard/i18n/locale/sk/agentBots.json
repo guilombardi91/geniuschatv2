@@ -23,7 +23,7 @@
     "BOT_CONFIGURATION": {
       "TITLE": "Select an agent bot",
       "DESC": "Assign an Agent Bot to your inbox. They can handle initial conversations and transfer them to a live agent when necessary.",
-      "SUBMIT": "Update",
+      "SUBMIT": "Atualizar",
       "DISCONNECT": "Disconnect bot",
       "SUCCESS_MESSAGE": "Successfully updated the agent bot.",
       "DISCONNECTED_SUCCESS_MESSAGE": "Successfully disconnected the agent bot.",

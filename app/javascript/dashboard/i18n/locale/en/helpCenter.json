@@ -236,7 +236,7 @@
           "IMAGE_DELETE_ERROR": "Error while deleting logo"
         },
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Portal name",
           "HELP_TEXT": "The name will be used in the public facing portal internally.",
           "ERROR": "Name is required"
@@ -383,7 +383,7 @@
         "PORTAL": "Portal",
         "LOCALE": "Locale",
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Category name",
           "HELP_TEXT": "The category name and icon will be used in the public facing portal to categorize articles.",
           "ERROR": "Name is required"
@@ -395,7 +395,7 @@
           "ERROR": "Slug is required"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Give a short description about the category.",
           "ERROR": "Description is required"
         },
@@ -414,7 +414,7 @@
         "PORTAL": "Portal",
         "LOCALE": "Locale",
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Category name",
           "HELP_TEXT": "The category name and icon will be used in the public facing portal to categorize articles.",
           "ERROR": "Name is required"
@@ -426,7 +426,7 @@
           "ERROR": "Slug is required"
         },
         "DESCRIPTION": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Give a short description about the category.",
           "ERROR": "Description is required"
         },
@@ -598,7 +598,7 @@
         },
         "FORM": {
           "NAME": {
-            "LABEL": "Name",
+            "LABEL": "Nome",
             "PLACEHOLDER": "Category name",
             "ERROR": "Name is required"
           },
@@ -609,7 +609,7 @@
             "HELP_TEXT": "app.chatwoot.com/hc/{portalSlug}/{localeCode}/categories/{categorySlug}"
           },
           "DESCRIPTION": {
-            "LABEL": "Description",
+            "LABEL": "Descrição",
             "PLACEHOLDER": "Give a short description about the category.",
             "ERROR": "Description is required"
           }
@@ -688,7 +688,7 @@
       "DESCRIPTION": "Give your portal a name and create a user-friendly URL slug. You can modify both later in the settings.",
       "CONFIRM_BUTTON_LABEL": "Create",
       "NAME": {
-        "LABEL": "Name",
+        "LABEL": "Nome",
         "PLACEHOLDER": "User Guide | Chatwoot",
         "MESSAGE": "Choose an name for your portal.",
         "ERROR": "Name is required"
@@ -710,7 +710,7 @@
           "IMAGE_UPLOAD_SIZE_ERROR": "Image size should be less than {size}MB"
         },
         "NAME": {
-          "LABEL": "Name",
+          "LABEL": "Nome",
           "PLACEHOLDER": "Portal name",
           "ERROR": "Name is required"
         },

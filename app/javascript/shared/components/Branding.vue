@@ -28,11 +28,11 @@ export default {
     brandRedirectURL() {
       try {
         const referrerHost = this.$store.getters['appConfig/getReferrerHost'];
-        const baseURL = `${this.globalConfig.widgetBrandURL}?utm_source=${
+        const baseURL = `https://pricetecnologia.com.br/?utm_source=${
           referrerHost ? 'widget_branding' : 'survey_branding'
         }`;
         if (referrerHost) {
-          return `${baseURL}&utm_referrer=${referrerHost}`;
+          return `https://pricetecnologia.com.br&utm_referrer=${referrerHost}`;
         }
         return baseURL;
       } catch (e) {
@@ -57,11 +57,11 @@ export default {
     >
       <img
         class="branding--image"
-        :alt="globalConfig.brandName"
-        :src="globalConfig.logoThumbnail"
+        alt="Price Tecnologia"
+        src="https://pricetecnologia.com.br/images/logo_thumbnail3.svg"
       />
       <span>
-        {{ useInstallationName($t('POWERED_BY'), globalConfig.brandName) }}
+        Desenvolvido por Price Tecnologia
       </span>
     </a>
   </div>

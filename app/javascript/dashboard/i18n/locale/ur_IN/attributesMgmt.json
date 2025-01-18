@@ -3,12 +3,12 @@
     "HEADER": "Custom Attributes",
     "HEADER_BTN_TXT": "Add Custom Attribute",
     "LOADING": "Fetching custom attributes",
-    "DESCRIPTION": "A custom attribute tracks additional details about your contacts or conversations—such as the subscription plan or the date of their first purchase. You can add different types of custom attributes, such as text, lists, or numbers, to capture the specific information you need.",
+    "DESCRIPTION": "Um atributo personalizado rastreia detalhes adicionais sobre seus contatos ou conversas, como o plano de assinatura ou a data da primeira compra. Você pode adicionar diferentes tipos de atributos personalizados, como texto, listas ou números, para capturar as informações específicas de que precisa.",
     "LEARN_MORE": "Learn more about custom attributes",
     "ADD": {
       "TITLE": "Add Custom Attribute",
       "SUBMIT": "Create",
-      "CANCEL_BUTTON_TEXT": "Cancel",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
       "FORM": {
         "NAME": {
           "LABEL": "Display Name",
@@ -16,7 +16,7 @@
           "ERROR": "Name is required"
         },
         "DESC": {
-          "LABEL": "Description",
+          "LABEL": "Descrição",
           "PLACEHOLDER": "Enter custom attribute description",
           "ERROR": "Description is required"
         },
@@ -59,7 +59,7 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Custom Attribute deleted successfully.",
         "ERROR_MESSAGE": "Couldn't delete the custom attribute. Try again."
