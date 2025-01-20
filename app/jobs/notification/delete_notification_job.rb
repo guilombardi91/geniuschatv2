@@ -4,7 +4,7 @@ class Notification::DeleteNotificationJob < ApplicationJob
   def perform(user, type: :all)
     ActiveRecord::Base.transaction do
       if type == :all
-        # Delete all notifications
+        # Deletar todas notifications
         user.notifications.destroy_all
       elsif type == :read
         # Delete only read notifications

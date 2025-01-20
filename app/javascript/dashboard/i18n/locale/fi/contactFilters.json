@@ -14,7 +14,7 @@
     "EMPTY_VALUE_ERROR": "Value is required",
     "SEGMENT_LABEL": "Segment Name",
     "SEGMENT_QUERY_LABEL": "Segment Query",
-    "TOOLTIP_LABEL": "Filter contacts",
+    "TOOLTIP_LABEL": "Filtrar contatos",
     "QUERY_DROPDOWN_LABELS": {
       "AND": "AND",
       "OR": "OR"

@@ -65,7 +65,7 @@
     },
     "CUSTOM_VIEWS": {
       "ADD": {
-        "TITLE": "Do you want to save this filter?",
+        "TITLE": "Você deseja salvar esse filtro?",
         "LABEL": "Name this filter",
         "PLACEHOLDER": "Name your filter to refer it later.",
         "ERROR_MESSAGE": "名前が必須です.",

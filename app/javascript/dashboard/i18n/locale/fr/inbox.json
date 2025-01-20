@@ -6,7 +6,7 @@
       "LOADING": "Chargement des notifications",
       "404": "Il n'y a aucune notification active dans ce groupe.",
       "NO_NOTIFICATIONS": "Aucune notification",
-      "NOTE": "Notifications from all subscribed inboxes",
+      "NOTE": "Notificações de todas as caixas de entrada",
       "NO_MESSAGES_AVAILABLE": "Oops! Not able to fetch messages",
       "SNOOZED_UNTIL": "Reporter jusqu'à",
       "SNOOZED_UNTIL_TOMORROW": "Reporté jusqu'à demain",
@@ -34,7 +34,7 @@
       "DELETE": "Supprimer",
       "MARK_ALL_READ": "Tout marquer comme lu",
       "DELETE_ALL": "Tout supprimer",
-      "DELETE_ALL_READ": "Delete all read"
+      "DELETE_ALL_READ": "Deletar todas lidas"
     },
     "DISPLAY_MENU": {
       "SORT": "Trier",

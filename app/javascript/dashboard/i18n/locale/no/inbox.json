@@ -6,7 +6,7 @@
       "LOADING": "Fetching notifications",
       "404": "There are no active notifications in this group.",
       "NO_NOTIFICATIONS": "No notifications",
-      "NOTE": "Notifications from all subscribed inboxes",
+      "NOTE": "Notificações de todas as caixas de entrada",
       "NO_MESSAGES_AVAILABLE": "Oops! Not able to fetch messages",
       "SNOOZED_UNTIL": "Snoozed until",
       "SNOOZED_UNTIL_TOMORROW": "Snoozed until tomorrow",
@@ -32,9 +32,9 @@
       "MARK_AS_UNREAD": "Mark as unread",
       "SNOOZE": "Snooze",
       "DELETE": "Slett",
-      "MARK_ALL_READ": "Mark all as read",
-      "DELETE_ALL": "Delete all",
-      "DELETE_ALL_READ": "Delete all read"
+      "MARK_ALL_READ": "Marcar tudo como lido",
+      "DELETE_ALL": "Deletar todas",
+      "DELETE_ALL_READ": "Deletar todas lidas"
     },
     "DISPLAY_MENU": {
       "SORT": "Sort",
