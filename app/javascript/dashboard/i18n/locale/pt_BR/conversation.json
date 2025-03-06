@@ -126,7 +126,7 @@
           "FAILED": "Não foi possível atribuir agente. Por favor, tente novamente."
         },
         "LABEL_ASSIGNMENT": {
-          "SUCCESFUL": "Etiqueta #{labelName} atribuída para o id de conversa {conversationId}",
+          "SUCCESFUL": "Tag #{labelName} atribuída para o id de conversa {conversationId}",
           "FAILED": "Não foi possível atribuir etiqueta. Por favor, tente novamente."
         },
         "TEAM_ASSIGNMENT": {
@@ -191,7 +191,7 @@
     "CHANGE_STATUS_FAILED": "Mudança de status da conversa falhou",
     "CHANGE_AGENT": "Responsável da conversa alterado",
     "CHANGE_AGENT_FAILED": "Falha ao atribuir outro agente",
-    "ASSIGN_LABEL_SUCCESFUL": "Etiqueta atribuída com sucesso",
+    "ASSIGN_LABEL_SUCCESFUL": "Tag atribuída com sucesso",
     "ASSIGN_LABEL_FAILED": "Falha ao atribuir etiqueta",
     "CHANGE_TEAM": "Estado da conversa mudou",
     "FILE_SIZE_LIMIT": "O arquivo excede os {MAXIMUM_SUPPORTED_FILE_UPLOAD_SIZE} MB do limite para anexos",
@@ -257,7 +257,7 @@
     },
     "LABELS": {
       "TITLE": "Organizar conversas com marcadores",
-      "DESCRIPTION": "Etiquetas fornecem uma forma mais fácil de organizar a sua conversa. Criar algumas estiquetas como #solicitação-suporte, #fatura-assunto etc., assim você poderá futuramente utiliza-las em uma conversa posteriormente.",
+      "DESCRIPTION": "Tags fornecem uma forma mais fácil de organizar a sua conversa. Criar algumas estiquetas como #solicitação-suporte, #fatura-assunto etc., assim você poderá futuramente utiliza-las em uma conversa posteriormente.",
       "NEW_LINK": "Clique aqui para criar marcadores"
     },
     "CANNED_RESPONSES": {
@@ -276,7 +276,7 @@
     "ACCORDION": {
       "CONTACT_DETAILS": "Detalhes do contato",
       "CONVERSATION_ACTIONS": "Ações da conversa",
-      "CONVERSATION_LABELS": "Marcador da conversa",
+      "CONVERSATION_LABELS": "Tag da conversa",
       "CONVERSATION_INFO": "Informação da conversa",
       "CONTACT_ATTRIBUTES": "Atributos do contato",
       "PREVIOUS_CONVERSATION": "Conversas anteriores",

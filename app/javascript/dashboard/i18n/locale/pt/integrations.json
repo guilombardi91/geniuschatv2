@@ -267,8 +267,8 @@
             "SEARCH": "Procurar prioridade"
           },
           "LABEL": {
-            "LABEL": "Etiqueta",
-            "PLACEHOLDER": "Selecionar etiqueta",
+            "LABEL": "Tag",
+            "PLACEHOLDER": "Selecionar tag",
             "SEARCH": "Procurar etiqueta"
           },
           "STATUS": {
@@ -293,7 +293,7 @@
         "STATUS": "Estado",
         "PRIORITY": "Prioridade",
         "ASSIGNEE": "Atribuído",
-        "LABELS": "Etiquetas",
+        "LABELS": "Tags",
         "CREATED_AT": "Criado a {createdAt}"
       },
       "UNLINK": {

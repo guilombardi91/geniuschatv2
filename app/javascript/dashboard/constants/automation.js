@@ -38,33 +38,33 @@ export const DEFAULT_ACTIONS = [
 export const MESSAGE_CONDITION_VALUES = [
   {
     id: 'incoming',
-    name: 'Incoming Message',
+    name: 'Mensagem de Entrada',
   },
   {
     id: 'outgoing',
-    name: 'Outgoing Message',
+    name: 'Mensagem de Saída',
   },
 ];
 
 export const PRIORITY_CONDITION_VALUES = [
   {
     id: 'nil',
-    name: 'None',
+    name: 'Nenhuma',
   },
   {
     id: 'low',
-    name: 'Low',
+    name: 'Baixa',
   },
   {
     id: 'medium',
-    name: 'Medium',
+    name: 'Média',
   },
   {
     id: 'high',
-    name: 'High',
+    name: 'Alta',
   },
   {
     id: 'urgent',
-    name: 'Urgent',
+    name: 'Urgente',
   },
 ];

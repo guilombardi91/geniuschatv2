@@ -9,7 +9,7 @@
     "FILTER_DELETE_ERROR": "Hauries de tenir almenys un filtre per desar",
     "SUBMIT_BUTTON_LABEL": "Envia",
     "UPDATE_BUTTON_LABEL": "Actualitza el segment",
-    "CANCEL_BUTTON_LABEL": "Cancel·la",
+    "CANCEL_BUTTON_LABEL": "Cancelar·la",
     "CLEAR_BUTTON_LABEL": "Esborra els filtres",
     "EMPTY_VALUE_ERROR": "El valor és necessari",
     "SEGMENT_LABEL": "Nom del segment",

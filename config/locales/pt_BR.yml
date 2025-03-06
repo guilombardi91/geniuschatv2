@@ -103,7 +103,7 @@ pt_BR:
       assignee: Responsável
       team: Times
       inbox: Caixa de Entrada
-      labels: Marcadores
+      labels: Tags
       conversation_link: Link para a conversa
       breached_events: Eventos Violados
     default_group_by: dia

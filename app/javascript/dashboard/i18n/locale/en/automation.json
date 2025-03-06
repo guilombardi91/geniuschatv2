@@ -41,10 +41,10 @@
     },
     "LIST": {
       "TABLE_HEADER": {
-        "NAME": "Name",
-        "DESCRIPTION": "Description",
-        "ACTIVE": "Active",
-        "CREATED_ON": "Created on"
+        "NAME": "Nome",
+        "DESCRIPTION": "Descrição",
+        "ACTIVE": "Ativo",
+        "CREATED_ON": "Criado em"
       },
       "404": "No automation rules found"
     },
@@ -83,7 +83,7 @@
       "EDIT": "Edit",
       "CREATE": "Create",
       "DELETE": "Delete",
-      "CANCEL": "Cancel",
+      "CANCEL": "Cancelar",
       "RESET_MESSAGE": "Changing event type will reset the conditions and events you have added below"
     },
     "CONDITION": {

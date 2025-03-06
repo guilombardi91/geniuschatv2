@@ -107,7 +107,7 @@
         "TITLE": "Portals",
         "PORTAL_SETTINGS": "Configuració del portal",
         "SUBTITLE": "Tens diversos portals i pots tenir diferents localitzacions per a cada portal.",
-        "CANCEL_BUTTON_LABEL": "Cancel·la",
+        "CANCEL_BUTTON_LABEL": "Cancelar·la",
         "CHOOSE_LOCALE_BUTTON": "Escull localització"
       },
       "PORTAL_SETTINGS": {
@@ -293,7 +293,7 @@
         },
         "BUTTONS": {
           "CREATE": "Crea una localització",
-          "CANCEL": "Cancel·la"
+          "CANCEL": "Cancelar·la"
         },
         "API": {
           "SUCCESS_MESSAGE": "La localització s'ha afegit correctament",
@@ -396,7 +396,7 @@
         },
         "BUTTONS": {
           "CREATE": "Crea la categoria",
-          "CANCEL": "Cancel·la"
+          "CANCEL": "Cancelar·la"
         },
         "API": {
           "SUCCESS_MESSAGE": "Categoria creada correctament",
@@ -427,7 +427,7 @@
         },
         "BUTTONS": {
           "CREATE": "Actualitza la categoria",
-          "CANCEL": "Cancel·la"
+          "CANCEL": "Cancelar·la"
         },
         "API": {
           "SUCCESS_MESSAGE": "Categoria actualitzada correctament",

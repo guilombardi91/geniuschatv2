@@ -41,7 +41,7 @@ const isFeatureEnabledOnAccount = useMapGetter(
 const currentAccountId = useMapGetter('getCurrentAccountId');
 
 const isBehindAPaywall = computed(() => {
-  return !isFeatureEnabledOnAccount.value(
+  return isFeatureEnabledOnAccount.value(
     currentAccountId.value,
     'custom_roles'
   );

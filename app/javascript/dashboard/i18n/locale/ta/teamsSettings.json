@@ -24,15 +24,15 @@
         {
           "title": "Create",
           "route": "settings_teams_new",
-          "body": "Create a new team of agents."
+          "body": "Criar uma nova equipe de agentes."
         },
         {
           "title": "ஏஜென்ட்களைச் சேர்க்கவும்",
           "route": "settings_teams_add_agents",
-          "body": "Add agents to the team."
+          "body": "Adicionar agentes a equipe."
         },
         {
-          "title": "Finish",
+          "title": "Voilà!",
           "route": "settings_teams_finish",
           "body": "நீங்கள் மேற்கொண்டு பயன்படுத்தலாம்!"
         }
@@ -61,7 +61,7 @@
           "body": "Edit agents in your team."
         },
         {
-          "title": "Finish",
+          "title": "Voilà!",
           "route": "settings_teams_edit_finish",
           "body": "நீங்கள் மேற்கொண்டு பயன்படுத்தலாம்!"
         }

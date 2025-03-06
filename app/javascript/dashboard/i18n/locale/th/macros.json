@@ -27,8 +27,8 @@
     "LIST": {
       "TABLE_HEADER": [
         "ชื่อ",
-        "Created by",
-        "Last updated by",
+        "Criado por",
+        "Última atualização por",
         "Visibility"
       ],
       "404": "No macros found"

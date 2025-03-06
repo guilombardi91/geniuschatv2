@@ -24,7 +24,7 @@
     "ADD": {
       "TITLE": "Afegir agent al teu equip",
       "DESC": "Podeu afegir persones que podran gestionar suport per a les vostres safates d'entrada.",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "FORM": {
         "NAME": {
           "LABEL": "Nom de l'Agent",
@@ -84,7 +84,7 @@
         "SUBMIT": "Editar l'agent"
       },
       "BUTTON_TEXT": "Edita",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "API": {
         "SUCCESS_MESSAGE": "Agent actualitzat correctament",
         "ERROR_MESSAGE": "No s'ha pogut connectar amb el servidor Woot. Torna-ho a provar més endavant"

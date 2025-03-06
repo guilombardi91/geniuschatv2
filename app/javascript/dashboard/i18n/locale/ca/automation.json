@@ -8,7 +8,7 @@
     "ADD": {
       "TITLE": "Afegeix una regla d'automatització",
       "SUBMIT": "Crear",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "FORM": {
         "NAME": {
           "LABEL": "Nom de la regla",
@@ -51,7 +51,7 @@
     "DELETE": {
       "TITLE": "Suprimeix una regla d'automatització",
       "SUBMIT": "Esborrar",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "CONFIRM": {
         "TITLE": "Confirma l'esborrat",
         "MESSAGE": "N'estas segur? ",
@@ -66,7 +66,7 @@
     "EDIT": {
       "TITLE": "Edita una regla d'automatització",
       "SUBMIT": "Actualitza",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "API": {
         "SUCCESS_MESSAGE": "La regla d'automatització s'ha actualitzat correctament",
         "ERROR_MESSAGE": "No s'ha pogut actualitzar una regla d'automatització. Intenta-ho més tard"
@@ -83,7 +83,7 @@
       "EDIT": "Edita",
       "CREATE": "Crear",
       "DELETE": "Esborrar",
-      "CANCEL": "Cancel·la",
+      "CANCEL": "Cancelar·la",
       "RESET_MESSAGE": "Si canvies el tipus d'esdeveniment, es restabliran les condicions i els esdeveniments que has afegit a continuació"
     },
     "CONDITION": {

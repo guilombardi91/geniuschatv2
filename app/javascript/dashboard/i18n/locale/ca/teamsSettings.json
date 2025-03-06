@@ -104,7 +104,7 @@
         "PLACE_HOLDER": "Escriu {teamName} per confirmar",
         "MESSAGE": "En suprimir l'equip, se suprimirà l'assignació d'equip de les converses assignades a aquest equip.",
         "YES": "Suprimeix ",
-        "NO": "Cancel·la"
+        "NO": "Cancelar·la"
       }
     },
     "SETTINGS": "Configuracions",

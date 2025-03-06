@@ -3,7 +3,7 @@
     "HEADER": "Custom Roles",
     "LEARN_MORE": "Learn more about custom roles",
     "DESCRIPTION": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
-    "HEADER_BTN_TXT": "Add custom role",
+    "HEADER_BTN_TXT": "Adicionar cargo",
     "LOADING": "Carregando cargos...",
     "SEARCH_404": "No hi ha cap resposta que coincideixi amb aquesta consulta.",
     "PAYWALL": {
@@ -19,7 +19,7 @@
       "ASK_ADMIN": "Posa't en contacte amb el vostre administrador per obtenir l'actualització."
     },
     "LIST": {
-      "404": "There are no custom roles available in this account.",
+      "404": "Não há cargos personalizados disponíveis nesta conta.",
       "TITLE": "Manage custom roles",
       "DESC": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "TABLE_HEADER": [
@@ -52,7 +52,7 @@
         "LABEL": "Permissões",
         "ERROR": "O campo permisões é obrigatório"
       },
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "API": {
         "ERROR_MESSAGE": "No s'ha pogut connectar amb el servidor Woot. Torna-ho a provar més endavant"
       }

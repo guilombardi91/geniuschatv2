@@ -21,16 +21,16 @@
         "DESC": "Add Agents to your newly created team. This lets you collaborate as a team on conversations, get notified on new events in the same conversation."
       },
       "WIZARD_CREATE": {
-        "TITLE": "Create",
-        "BODY": "Create a new team of agents."
+        "TITLE": "Criar",
+        "BODY": "Criar uma nova equipe de agentes."
       },
       "WIZARD_ADD_AGENTS": {
-        "TITLE": "Add Agents",
-        "BODY": "Add agents to the team."
+        "TITLE": "Adicionar Agentes",
+        "BODY": "Adicionar agentes a equipe."
       },
       "WIZARD_FINISH": {
         "TITLE": "Finish",
-        "BODY": "You are all set to go!"
+        "BODY": "Está tudo pronto para começar!"
       }
     },
     "EDIT_FLOW": {
@@ -57,7 +57,7 @@
       "EDIT_WIZARD_FINISH": {
         "TITLE": "Finish",
         "ROUTE": "settings_teams_edit_finish",
-        "BODY": "You are all set to go!"
+        "BODY": "Está tudo pronto para começar!"
       }
     },
     "TEAM_FORM": {
@@ -97,7 +97,7 @@
         "PLACE_HOLDER": "Please type {teamName} to confirm",
         "MESSAGE": "Deleting the team will remove the team assignment from the conversations assigned to this team.",
         "YES": "Delete ",
-        "NO": "Cancel"
+        "NO": "Cancelar"
       }
     },
     "SETTINGS": "Settings",

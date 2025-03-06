@@ -267,7 +267,7 @@
             "SEARCH": "Buscar prioridad"
           },
           "LABEL": {
-            "LABEL": "Etiqueta",
+            "LABEL": "Tag",
             "PLACEHOLDER": "Seleecionar etiqueta",
             "SEARCH": "Buscar etiqueta"
           },
@@ -293,7 +293,7 @@
         "STATUS": "Estado",
         "PRIORITY": "Prioridad",
         "ASSIGNEE": "Cesionario",
-        "LABELS": "Etiquetas",
+        "LABELS": "Tags",
         "CREATED_AT": "Created at {createdAt}"
       },
       "UNLINK": {

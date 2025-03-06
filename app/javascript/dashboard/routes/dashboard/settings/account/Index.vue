@@ -266,7 +266,7 @@ export default {
         </div>
       </div>
       <div class="p-4 text-sm text-center">
-        <div>{{ `v${globalConfig.appVersion}` }}</div>
+        <div>GeniusChat v2.0.5</div>
         <div v-if="hasAnUpdateAvailable && globalConfig.displayManifest">
           {{
             $t('GENERAL_SETTINGS.UPDATE_CHATWOOT', {

@@ -132,7 +132,7 @@ export const filterAttributes = [
   },
   {
     key: 'browser_language',
-    name: 'Browser Language',
+    name: 'Idioma do Navegador',
     attributeI18nKey: 'BROWSER_LANGUAGE',
     inputType: 'search_select',
     filterOperators: [
@@ -142,7 +142,7 @@ export const filterAttributes = [
   },
   {
     key: 'country_code',
-    name: 'Country',
+    name: 'País',
     attributeI18nKey: 'COUNTRY_NAME',
     inputType: 'search_select',
     filterOperators: [
@@ -152,7 +152,7 @@ export const filterAttributes = [
   },
   {
     key: 'referer',
-    name: 'Referrer Link',
+    name: 'Link de Referência',
     attributeI18nKey: 'REFERER_LINK',
     inputType: 'plain_text',
     filterOperators: [
@@ -510,7 +510,7 @@ export const inboxes = [
     id: 2,
     avatar_url: '',
     channel_id: 1,
-    name: 'Email',
+    name: 'E-mail',
     channel_type: 'Channel::Email',
     greeting_enabled: false,
     greeting_message: null,
@@ -639,11 +639,11 @@ export const countries = allCountries;
 export const MESSAGE_CONDITION_VALUES = [
   {
     id: 'incoming',
-    name: 'Incoming Message',
+    name: 'Mensagem de Entrada',
   },
   {
     id: 'outgoing',
-    name: 'Outgoing Message',
+    name: 'Mensagem de Saída',
   },
 ];
 

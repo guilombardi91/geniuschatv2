@@ -47,7 +47,7 @@
       "DISPLAY_OPTIONS": {
         "SNOOZED": "Postpuestas",
         "READ": "Leído",
-        "LABELS": "Etiquetas",
+        "LABELS": "Tags",
         "CONVERSATION_ID": "ID de conversación"
       }
     },

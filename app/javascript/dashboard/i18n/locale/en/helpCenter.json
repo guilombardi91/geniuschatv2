@@ -112,7 +112,7 @@
         "TITLE": "Portals",
         "PORTAL_SETTINGS": "Portal settings",
         "SUBTITLE": "You have multiple portals and can have different locales for each portal.",
-        "CANCEL_BUTTON_LABEL": "Cancel",
+        "CANCEL_BUTTON_LABEL": "Cancelar",
         "CHOOSE_LOCALE_BUTTON": "Choose Locale"
       },
       "PORTAL_SETTINGS": {
@@ -292,7 +292,7 @@
         },
         "BUTTONS": {
           "CREATE": "Create locale",
-          "CANCEL": "Cancel"
+          "CANCEL": "Cancelar"
         },
         "API": {
           "SUCCESS_MESSAGE": "Locale added successfully",
@@ -401,7 +401,7 @@
         },
         "BUTTONS": {
           "CREATE": "Create category",
-          "CANCEL": "Cancel"
+          "CANCEL": "Cancelar"
         },
         "API": {
           "SUCCESS_MESSAGE": "Category created successfully",
@@ -432,7 +432,7 @@
         },
         "BUTTONS": {
           "CREATE": "Update category",
-          "CANCEL": "Cancel"
+          "CANCEL": "Cancelar"
         },
         "API": {
           "SUCCESS_MESSAGE": "Category updated successfully",
@@ -617,7 +617,7 @@
         "BUTTONS": {
           "CREATE": "Create",
           "EDIT": "Update",
-          "CANCEL": "Cancel"
+          "CANCEL": "Cancelar"
         }
       }
     },

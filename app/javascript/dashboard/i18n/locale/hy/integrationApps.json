@@ -42,7 +42,7 @@
           "PLACEHOLDER": "Select Inbox"
         },
         "SUBMIT": "Create",
-        "CANCEL": "Cancel"
+        "CANCEL": "Cancelar"
       },
       "API": {
         "SUCCESS_MESSAGE": "Integration hook added successfully",

@@ -14,15 +14,15 @@
       "SUBSCRIBED_EVENTS": "Subscribed Events",
       "LEARN_MORE": "Learn more about webhooks",
       "FORM": {
-        "CANCEL": "Cancel",
+        "CANCEL": "Cancelar",
         "DESC": "Webhook events provide you the realtime information about what's happening in your Chatwoot account. Please enter a valid URL to configure a callback.",
         "SUBSCRIPTIONS": {
           "LABEL": "Events",
           "EVENTS": {
-            "CONVERSATION_CREATED": "Conversation Created",
+            "CONVERSATION_CREATED": "Conversa Criada",
             "CONVERSATION_STATUS_CHANGED": "Conversation Status Changed",
-            "CONVERSATION_UPDATED": "Conversation Updated",
-            "MESSAGE_CREATED": "Message created",
+            "CONVERSATION_UPDATED": "Conversa Atualizada",
+            "MESSAGE_CREATED": "Mensagem Criada",
             "MESSAGE_UPDATED": "Message updated",
             "WEBWIDGET_TRIGGERED": "Live chat widget opened by the user",
             "CONTACT_CREATED": "Contact created",
@@ -61,7 +61,7 @@
         }
       },
       "ADD": {
-        "CANCEL": "Cancel",
+        "CANCEL": "Cancelar",
         "TITLE": "Add new webhook",
         "API": {
           "SUCCESS_MESSAGE": "Webhook configuration added successfully",
@@ -132,7 +132,7 @@
         "AI_WRITING": "AI is writing",
         "BUTTONS": {
           "APPLY": "Use this suggestion",
-          "CANCEL": "Cancel"
+          "CANCEL": "Cancelar"
         }
       },
       "CTA_MODAL": {
@@ -161,7 +161,7 @@
       "BUTTONS": {
         "GENERATE": "Generate",
         "GENERATING": "Generating...",
-        "CANCEL": "Cancel"
+        "CANCEL": "Cancelar"
       },
       "GENERATE_ERROR": "There was an error processing the content, please try again"
     },
@@ -201,14 +201,14 @@
       "CREATE": {
         "HEADER": "Add a new dashboard app",
         "FORM_SUBMIT": "बुझाउनुहोस्",
-        "FORM_CANCEL": "Cancel",
+        "FORM_CANCEL": "Cancelar",
         "API_SUCCESS": "Dashboard app configured successfully",
         "API_ERROR": "We couldn't create an app. Please try again later"
       },
       "UPDATE": {
         "HEADER": "Edit dashboard app",
         "FORM_SUBMIT": "Update",
-        "FORM_CANCEL": "Cancel",
+        "FORM_CANCEL": "Cancelar",
         "API_SUCCESS": "Dashboard app updated successfully",
         "API_ERROR": "We couldn't update the app. Please try again later"
       },
@@ -283,7 +283,7 @@
           }
         },
         "CREATE": "Create",
-        "CANCEL": "Cancel",
+        "CANCEL": "Cancelar",
         "CREATE_SUCCESS": "Issue created successfully",
         "CREATE_ERROR": "There was an error creating the issue, please try again",
         "LOADING_TEAM_ERROR": "There was an error fetching the teams, please try again",

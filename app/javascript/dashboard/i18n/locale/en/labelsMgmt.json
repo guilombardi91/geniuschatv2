@@ -11,9 +11,9 @@
       "TITLE": "Manage labels",
       "DESC": "Labels let you group the conversations together.",
       "TABLE_HEADER": {
-        "NAME": "Name",
-        "DESCRIPTION": "Description",
-        "COLOR": "Color"
+        "NAME": "Nome",
+        "DESCRIPTION": "Descrição",
+        "COLOR": "Cor"
       }
     },
     "FORM": {
@@ -37,7 +37,7 @@
       "EDIT": "Edit",
       "CREATE": "Create",
       "DELETE": "Delete",
-      "CANCEL": "Cancel"
+      "CANCEL": "Cancelar"
     },
     "SUGGESTIONS": {
       "TOOLTIP": {

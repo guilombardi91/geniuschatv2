@@ -551,7 +551,7 @@
       "SET_FIELDS": "Camps del formulari previ al xat",
       "SET_FIELDS_HEADER": {
         "FIELDS": "Camps",
-        "LABEL": "Etiqueta",
+        "LABEL": "Tag",
         "PLACE_HOLDER": "Espai reservat",
         "KEY": "Clau",
         "TYPE": "Tipus",

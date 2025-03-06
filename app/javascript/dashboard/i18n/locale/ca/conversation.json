@@ -86,7 +86,7 @@
     "CUSTOM_SNOOZE": {
       "TITLE": "Posposat fins a",
       "APPLY": "Posposat",
-      "CANCEL": "Cancel·la"
+      "CANCEL": "Cancelar·la"
     },
     "PRIORITY": {
       "TITLE": "Prioritat",
@@ -182,7 +182,7 @@
         "MESSAGE": "Tens {undefinedVariablesCount} variables sense definir al teu missatge: {undefinedVariables}. Vols enviar el missatge igualment?",
         "CONFIRM": {
           "YES": "Envia",
-          "CANCEL": "Cancel·la"
+          "CANCEL": "Cancelar·la"
         }
       }
     },
@@ -217,7 +217,7 @@
         "TITLE": "Estàs segur que vols suprimir aquest missatge?",
         "MESSAGE": "No pots desfer aquesta acció",
         "DELETE": "Esborrar",
-        "CANCEL": "Cancel·la"
+        "CANCEL": "Cancelar·la"
       }
     }
   },
@@ -225,7 +225,7 @@
     "TITLE": "Envia la transcripció de la conversa",
     "DESC": "Envia una còpia de la transcripció de la conversa a l'adreça electrònica especificada",
     "SUBMIT": "Envia",
-    "CANCEL": "Cancel·la",
+    "CANCEL": "Cancelar·la",
     "SEND_EMAIL_SUCCESS": "La transcripció del xat s'ha enviat correctament",
     "SEND_EMAIL_ERROR": "S'ha produït un error; tornau-ho a provar",
     "FORM": {

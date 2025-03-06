@@ -1,6 +1,6 @@
 {
   "LABEL_MGMT": {
-    "HEADER": "Etiquetas",
+    "HEADER": "Tags",
     "HEADER_BTN_TXT": "Añadir etiqueta",
     "LOADING": "Obteniendo etiquetas",
     "DESCRIPTION": "Os rótulos ajudam você a categorizar e priorizar conversas e leads. Você pode atribuir um rótulo a uma conversa ou contato usando o painel lateral.",
@@ -51,27 +51,27 @@
       "ADD_SELECTED_LABELS": "Asignar etiquetas seleccionadas",
       "ADD_SELECTED_LABEL": "Añadir etiqueta seleccionada",
       "ADD_ALL_LABELS": "Añadir todas las etiquetas",
-      "SUGGESTED_LABELS": "Etiquetas sugeridas"
+      "SUGGESTED_LABELS": "Tags sugeridas"
     },
     "ADD": {
       "TITLE": "Añadir etiqueta",
       "DESC": "Las etiquetas permiten agrupar las conversaciones.",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta añadida correctamente",
+        "SUCCESS_MESSAGE": "Tag añadida correctamente",
         "ERROR_MESSAGE": "Hubo un error, por favor inténtelo de nuevo"
       }
     },
     "EDIT": {
       "TITLE": "Editar etiqueta",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta actualizada correctamente",
+        "SUCCESS_MESSAGE": "Tag actualizada correctamente",
         "ERROR_MESSAGE": "Hubo un error, por favor inténtelo de nuevo"
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Eliminar",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta actualizada correctamente",
+        "SUCCESS_MESSAGE": "Tag actualizada correctamente",
         "ERROR_MESSAGE": "Hubo un error, por favor inténtelo de nuevo"
       },
       "CONFIRM": {

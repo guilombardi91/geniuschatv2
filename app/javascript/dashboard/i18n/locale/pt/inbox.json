@@ -47,7 +47,7 @@
       "DISPLAY_OPTIONS": {
         "SNOOZED": "Adiado",
         "READ": "Lida",
-        "LABELS": "Etiquetas",
+        "LABELS": "Tags",
         "CONVERSATION_ID": "ID da conversa"
       }
     },

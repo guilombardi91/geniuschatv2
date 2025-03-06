@@ -1,7 +1,7 @@
 {
   "INTEGRATION_SETTINGS": {
     "HEADER": "Integrações",
-    "DESCRIPTION": "Chatwoot se integra com várias ferramentas e serviços para melhorar a eficiência da sua equipe. Explore a lista abaixo para configurar seus aplicativos favoritos.",
+    "DESCRIPTION": "O Price GeniusChat suporta widgets de chats ao vivo, Facebook Messenger, perfis do Twitter, WhatsApp, E-mails, etc., como canais. Se você quiser criar um canal personalizado, você pode criá-lo usando o canal API. Para começar, escolha um dos canais abaixo.",
     "LEARN_MORE": "Aprenda mais sobre integrações",
     "LOADING": "Obtendo integrações",
     "CAPTAIN": {
@@ -272,7 +272,7 @@
             "SEARCH": "Search label"
           },
           "STATUS": {
-            "LABEL": "SItuação",
+            "LABEL": "Situação",
             "PLACEHOLDER": "Select status",
             "SEARCH": "Search status"
           },
@@ -290,10 +290,10 @@
         "LOADING_TEAM_ENTITIES_ERROR": "Houve um erro ao buscar as entidades da equipe, por favor, tente novamente"
       },
       "ISSUE": {
-        "STATUS": "SItuação",
+        "STATUS": "Situação",
         "PRIORITY": "Prioridade",
         "ASSIGNEE": "Responsável",
-        "LABELS": "Marcadores",
+        "LABELS": "Tags",
         "CREATED_AT": "Criado em {createdAt}"
       },
       "UNLINK": {

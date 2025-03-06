@@ -19,10 +19,10 @@
         "SUBSCRIPTIONS": {
           "LABEL": "Events",
           "EVENTS": {
-            "CONVERSATION_CREATED": "Conversation Created",
+            "CONVERSATION_CREATED": "Conversa Criada",
             "CONVERSATION_STATUS_CHANGED": "Conversation Status Changed",
-            "CONVERSATION_UPDATED": "Conversation Updated",
-            "MESSAGE_CREATED": "Message created",
+            "CONVERSATION_UPDATED": "Conversa Atualizada",
+            "MESSAGE_CREATED": "Mensagem Criada",
             "MESSAGE_UPDATED": "Message updated",
             "WEBWIDGET_TRIGGERED": "Live chat widget opened by the user",
             "CONTACT_CREATED": "Contact created",

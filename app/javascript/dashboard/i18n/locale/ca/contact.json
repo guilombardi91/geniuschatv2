@@ -70,7 +70,7 @@
     "FORM": {
       "LABEL": "Fitxer CSV",
       "SUBMIT": "Importa",
-      "CANCEL": "Cancel·la"
+      "CANCEL": "Cancelar·la"
     },
     "SUCCESS_MESSAGE": "Es notificarà per correu electrònic quan s'hagi completat la importació.",
     "ERROR_MESSAGE": "S'ha produït un error; tornau-ho a provar"
@@ -115,7 +115,7 @@
   "CONTACT_FORM": {
     "FORM": {
       "SUBMIT": "Envia",
-      "CANCEL": "Cancel·la",
+      "CANCEL": "Cancelar·la",
       "AVATAR": {
         "LABEL": "Avatar del contacte"
       },
@@ -217,7 +217,7 @@
         "HELP_TEXT": "Arrossegueu i deixeu anar fitxers aquí o trieu fitxers per adjuntar"
       },
       "SUBMIT": "Envia missatge",
-      "CANCEL": "Cancel·la",
+      "CANCEL": "Cancelar·la",
       "SUCCESS_MESSAGE": "Missatges enviat!",
       "GO_TO_CONVERSATION": "Veure",
       "ERROR_MESSAGE": "No s'ha pogut enviar! torna-ho a provar"
@@ -311,7 +311,7 @@
     },
     "FORM": {
       "CREATE": "Afegir atribut",
-      "CANCEL": "Cancel·la",
+      "CANCEL": "Cancelar·la",
       "NAME": {
         "LABEL": "Personalitza el nom de l'atribut",
         "PLACEHOLDER": "P. ex.: identificador de Shopify",
@@ -375,7 +375,7 @@
     },
     "FORM": {
       "SUBMIT": " Fusiona contactes",
-      "CANCEL": "Cancel·la",
+      "CANCEL": "Cancelar·la",
       "CHILD_CONTACT": {
         "ERROR": "Seleccioneu un contacte fill per fusionar"
       },

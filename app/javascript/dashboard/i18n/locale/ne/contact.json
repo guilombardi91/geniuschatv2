@@ -70,7 +70,7 @@
     "FORM": {
       "LABEL": "CSV File",
       "SUBMIT": "Import",
-      "CANCEL": "Cancel"
+      "CANCEL": "Cancelar"
     },
     "SUCCESS_MESSAGE": "You will be notified via email when the import is complete.",
     "ERROR_MESSAGE": "There was an error, please try again"
@@ -86,7 +86,7 @@
       "MESSAGE": "Are you sure you want to export all contacts?",
       "FILTERED_MESSAGE": "Are you sure you want to export all the filtered contacts?",
       "YES": "Yes, Export",
-      "NO": "No, Cancel"
+      "NO": "No, Cancelar"
     }
   },
   "DELETE_NOTE": {
@@ -115,7 +115,7 @@
   "CONTACT_FORM": {
     "FORM": {
       "SUBMIT": "बुझाउनुहोस्",
-      "CANCEL": "Cancel",
+      "CANCEL": "Cancelar",
       "AVATAR": {
         "LABEL": "Contact Avatar"
       },
@@ -217,7 +217,7 @@
         "HELP_TEXT": "Drag and drop files here or choose files to attach"
       },
       "SUBMIT": "Send message",
-      "CANCEL": "Cancel",
+      "CANCEL": "Cancelar",
       "SUCCESS_MESSAGE": "Message sent!",
       "GO_TO_CONVERSATION": "View",
       "ERROR_MESSAGE": "Couldn't send! try again"
@@ -311,7 +311,7 @@
     },
     "FORM": {
       "CREATE": "Add attribute",
-      "CANCEL": "Cancel",
+      "CANCEL": "Cancelar",
       "NAME": {
         "LABEL": "Custom attribute name",
         "PLACEHOLDER": "Eg: shopify id",
@@ -375,7 +375,7 @@
     },
     "FORM": {
       "SUBMIT": " Merge contacts",
-      "CANCEL": "Cancel",
+      "CANCEL": "Cancelar",
       "CHILD_CONTACT": {
         "ERROR": "Select a child contact to merge"
       },

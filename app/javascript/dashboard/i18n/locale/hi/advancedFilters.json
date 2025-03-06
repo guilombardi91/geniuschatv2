@@ -8,7 +8,7 @@
     "FILTER_DELETE_ERROR": "Oops, looks like we can't save nothing! Please add at least one filter to save it.",
     "SUBMIT_BUTTON_LABEL": "Apply filters",
     "UPDATE_BUTTON_LABEL": "Update folder",
-    "CANCEL_BUTTON_LABEL": "Cancel",
+    "CANCEL_BUTTON_LABEL": "Cancelar",
     "CLEAR_BUTTON_LABEL": "Clear filters",
     "FOLDER_LABEL": "Folder Name",
     "FOLDER_QUERY_LABEL": "Folder Query",
@@ -47,7 +47,7 @@
       "PRIORITY": "Priority",
       "COUNTRY_NAME": "Country name",
       "REFERER_LINK": "Link de referência",
-      "CUSTOM_ATTRIBUTE_LIST": "List",
+      "CUSTOM_ATTRIBUTE_LIST": "Lista",
       "CUSTOM_ATTRIBUTE_TEXT": "Text",
       "CUSTOM_ATTRIBUTE_NUMBER": "Number",
       "CUSTOM_ATTRIBUTE_LINK": "Link",
@@ -70,7 +70,7 @@
         "PLACEHOLDER": "Name your filter to refer it later.",
         "ERROR_MESSAGE": "Name is required.",
         "SAVE_BUTTON": "Save filter",
-        "CANCEL_BUTTON": "Cancel",
+        "CANCEL_BUTTON": "Cancelar",
         "API_FOLDERS": {
           "SUCCESS_MESSAGE": "Folder created successfully.",
           "ERROR_MESSAGE": "Error while creating folder."

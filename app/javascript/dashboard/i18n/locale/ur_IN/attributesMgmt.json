@@ -69,7 +69,7 @@
         "PLACE_HOLDER": "Please type {attributeName} to confirm",
         "MESSAGE": "Deleting will remove the custom attribute",
         "YES": "Delete ",
-        "NO": "Cancel"
+        "NO": "Cancelar"
       }
     },
     "EDIT": {

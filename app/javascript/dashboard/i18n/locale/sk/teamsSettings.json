@@ -24,10 +24,10 @@
         {
           "title": "Create",
           "route": "settings_teams_new",
-          "body": "Create a new team of agents."
+          "body": "Criar uma nova equipe de agentes."
         },
         {
-          "title": "Add Agents",
+          "title": "Adicionar Agentes",
           "route": "settings_teams_add_agents",
           "body": "Pridať agentov do tímu."
         },

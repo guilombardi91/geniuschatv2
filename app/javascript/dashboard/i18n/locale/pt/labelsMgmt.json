@@ -1,6 +1,6 @@
 {
   "LABEL_MGMT": {
-    "HEADER": "Etiquetas",
+    "HEADER": "Tags",
     "HEADER_BTN_TXT": "Adicionar etiqueta",
     "LOADING": "A procurar etiquetas",
     "DESCRIPTION": "As etiquetas ajudam-no a categorizar e priorizar conversas e leads. Pode atribuir uma etiqueta a uma conversa ou entrar em contacto usando o painel lateral.",
@@ -51,27 +51,27 @@
       "ADD_SELECTED_LABELS": "Adicionar etiquetas selecionadas",
       "ADD_SELECTED_LABEL": "Adicionar etiqueta selecionada",
       "ADD_ALL_LABELS": "Adicionar todas as etiquetas",
-      "SUGGESTED_LABELS": "Etiquetas sugeridas"
+      "SUGGESTED_LABELS": "Tags sugeridas"
     },
     "ADD": {
       "TITLE": "Adicionar etiqueta",
       "DESC": "As etiquetas permitem agrupar conversas.",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta adicionada com sucesso",
+        "SUCCESS_MESSAGE": "Tag adicionada com sucesso",
         "ERROR_MESSAGE": "Ocorreu um erro, por favor, tente novamente"
       }
     },
     "EDIT": {
       "TITLE": "Editar etiqueta",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta atualizada com sucesso",
+        "SUCCESS_MESSAGE": "Tag atualizada com sucesso",
         "ERROR_MESSAGE": "Ocorreu um erro, por favor, tente novamente"
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Excluir",
       "API": {
-        "SUCCESS_MESSAGE": "Etiqueta excluída com sucesso",
+        "SUCCESS_MESSAGE": "Tag excluída com sucesso",
         "ERROR_MESSAGE": "Ocorreu um erro, por favor, tente novamente"
       },
       "CONFIRM": {

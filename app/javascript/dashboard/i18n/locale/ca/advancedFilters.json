@@ -8,7 +8,7 @@
     "FILTER_DELETE_ERROR": "Vaja, sembla que no podem desar res! Afegiu almenys un filtre per desar-lo.",
     "SUBMIT_BUTTON_LABEL": "Aplicar filtres",
     "UPDATE_BUTTON_LABEL": "Actualitza la carpeta",
-    "CANCEL_BUTTON_LABEL": "Cancel·la",
+    "CANCEL_BUTTON_LABEL": "Cancelar·la",
     "CLEAR_BUTTON_LABEL": "Esborra els filtres",
     "FOLDER_LABEL": "Nom de la carpeta",
     "FOLDER_QUERY_LABEL": "Consulta de carpeta",
@@ -70,7 +70,7 @@
         "PLACEHOLDER": "Anomena el teu filtre per referir-lo més endavant.",
         "ERROR_MESSAGE": "El nom és obligatori.",
         "SAVE_BUTTON": "Desa el filtre",
-        "CANCEL_BUTTON": "Cancel·la",
+        "CANCEL_BUTTON": "Cancelar·la",
         "API_FOLDERS": {
           "SUCCESS_MESSAGE": "Carpeta creada correctament.",
           "ERROR_MESSAGE": "S'ha produït un error en crear la carpeta."

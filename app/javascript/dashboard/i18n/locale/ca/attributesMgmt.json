@@ -8,7 +8,7 @@
     "ADD": {
       "TITLE": "Afegir atribut personalitzat",
       "SUBMIT": "Crear",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "FORM": {
         "NAME": {
           "LABEL": "Mostre el nom",
@@ -69,7 +69,7 @@
         "PLACE_HOLDER": "Escriu {attributeName} per confirmar",
         "MESSAGE": "En suprimir, s'eliminarà l'atribut personalitzat",
         "YES": "Suprimeix ",
-        "NO": "Cancel·la"
+        "NO": "Cancelar·la"
       }
     },
     "EDIT": {

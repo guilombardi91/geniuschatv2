@@ -10,24 +10,24 @@
     },
     "CREATE_FLOW": [
       {
-        "title": "Choose Channel",
+        "title": "Escolha o canal",
         "route": "settings_inbox_new",
-        "body": "Choose the provider you want to integrate with Chatwoot."
+        "body": "Escolha o provedor que você deseja integrar com o Price GeniusChat."
       },
       {
         "title": "Create Inbox",
         "route": "settings_inboxes_page_channel",
-        "body": "Authenticate your account and create an inbox."
+        "body": "Autenticar sua conta e criar uma caixa de entrada."
       },
       {
-        "title": "Add Agents",
+        "title": "Adicionar Agentes",
         "route": "settings_inboxes_add_agents",
-        "body": "Add agents to the created inbox."
+        "body": "Adicionar agentes à caixa de entrada criada."
       },
       {
         "title": "Voilà!",
         "route": "settings_inbox_finish",
-        "body": "You are all set to go!"
+        "body": "Está tudo pronto para começar!"
       }
     ],
     "ADD": {

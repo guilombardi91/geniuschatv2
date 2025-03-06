@@ -23,15 +23,15 @@
     },
     "LABELS": {
       "CONTACT": {
-        "TITLE": "Etiquetas de contato",
+        "TITLE": "Tags de contato",
         "ERROR": "Falha ao atualizar etiquetas"
       },
       "CONVERSATION": {
-        "TITLE": "Marcador da conversa",
-        "ADD_BUTTON": "Adicionar marcador"
+        "TITLE": "Tag da conversa",
+        "ADD_BUTTON": "Adicionar tag"
       },
       "LABEL_SELECT": {
-        "TITLE": "Adicionar marcador",
+        "TITLE": "Adicionar tag",
         "PLACEHOLDER": "Pesquisar marcador ",
         "NO_RESULT": "Nenhum rótulo encontrado",
         "CREATE_LABEL": "Criar etiqueta"
@@ -47,7 +47,7 @@
     "EDIT_LABEL": "Alterar",
     "SIDEBAR_SECTIONS": {
       "CUSTOM_ATTRIBUTES": "Atributos Personalizados",
-      "CONTACT_LABELS": "Etiquetas de contato",
+      "CONTACT_LABELS": "Tags de contato",
       "PREVIOUS_CONVERSATIONS": "Conversas anteriores",
       "NO_RECORDS_FOUND": "Nenhum atributo encontrado"
     }

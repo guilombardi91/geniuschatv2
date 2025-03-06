@@ -3,7 +3,7 @@
     "HEADER": "Custom Roles",
     "LEARN_MORE": "Learn more about custom roles",
     "DESCRIPTION": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
-    "HEADER_BTN_TXT": "Add custom role",
+    "HEADER_BTN_TXT": "Adicionar cargo",
     "LOADING": "Carregando cargos...",
     "SEARCH_404": "Det finns inga objekt som matchar denna fråga.",
     "PAYWALL": {
@@ -19,7 +19,7 @@
       "ASK_ADMIN": "Please reach out to your administrator for the upgrade."
     },
     "LIST": {
-      "404": "There are no custom roles available in this account.",
+      "404": "Não há cargos personalizados disponíveis nesta conta.",
       "TITLE": "Manage custom roles",
       "DESC": "Cargos personalizados são funções criadas pelo proprietário ou administrador da conta. Essas funções podem ser atribuídas a agentes para definir seu acesso e permissões dentro da conta. Funções personalizadas podem ser criadas com permissões e níveis de acesso específicos para atender aos requisitos da organização.",
       "TABLE_HEADER": [

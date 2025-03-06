@@ -126,7 +126,7 @@
           "FAILED": "No se pudo asignar el agente. Por favor, inténtelo de nuevo."
         },
         "LABEL_ASSIGNMENT": {
-          "SUCCESFUL": "Etiqueta asignada #{labelName} al id de conversación {conversationId}",
+          "SUCCESFUL": "Tag asignada #{labelName} al id de conversación {conversationId}",
           "FAILED": "No se pudo asignar el agente. Por favor, inténtelo de nuevo."
         },
         "TEAM_ASSIGNMENT": {
@@ -191,7 +191,7 @@
     "CHANGE_STATUS_FAILED": "Error al cambiar el estado de la conversación",
     "CHANGE_AGENT": "Conversación cambiada de asignatario",
     "CHANGE_AGENT_FAILED": "Error al cambiar el asignatario",
-    "ASSIGN_LABEL_SUCCESFUL": "Etiqueta asignada correctamente",
+    "ASSIGN_LABEL_SUCCESFUL": "Tag asignada correctamente",
     "ASSIGN_LABEL_FAILED": "No se ha podido asignar la etiqueta",
     "CHANGE_TEAM": "Equipo de conversación cambiado",
     "FILE_SIZE_LIMIT": "El archivo supera el límite de archivos adjuntos de {MAXIMUM_SUPPORTED_FILE_UPLOAD_SIZE} MB",
@@ -276,7 +276,7 @@
     "ACCORDION": {
       "CONTACT_DETAILS": "Detalles de contacto",
       "CONVERSATION_ACTIONS": "Acciones de conversación",
-      "CONVERSATION_LABELS": "Etiquetas de conversación",
+      "CONVERSATION_LABELS": "Tags de conversación",
       "CONVERSATION_INFO": "Información de la conversación",
       "CONTACT_ATTRIBUTES": "Atributos de contacto",
       "PREVIOUS_CONVERSATION": "Conversaciones anteriores",

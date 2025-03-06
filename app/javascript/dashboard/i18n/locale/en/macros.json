@@ -26,10 +26,10 @@
     },
     "LIST": {
       "TABLE_HEADER": {
-        "NAME": "Name",
-        "CREATED BY": "Created by",
-        "LAST_UPDATED_BY": "Last updated by",
-        "VISIBILITY": "Visibility"
+        "NAME": "Nome",
+        "CREATED BY": "Criado por",
+        "LAST_UPDATED_BY": "Última atualização por",
+        "VISIBILITY": "Visibilidade"
       },
       "404": "No macros found"
     },

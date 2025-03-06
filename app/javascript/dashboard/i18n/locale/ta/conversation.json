@@ -21,7 +21,7 @@
       "RESULT_TITLE": "Search Results",
       "LOADING_MESSAGE": "Crunching data...",
       "PLACEHOLDER": "Type any text to search messages",
-      "NO_MATCHING_RESULTS": "No results found."
+      "NO_MATCHING_RESULTS": "Nenhum resultado encontrado."
     },
     "UNREAD_MESSAGES": "Unread Messages",
     "UNREAD_MESSAGE": "Unread Message",
@@ -100,7 +100,7 @@
       "CHANGE_PRIORITY": {
         "SELECT_PLACEHOLDER": "None",
         "INPUT_PLACEHOLDER": "Select priority",
-        "NO_RESULTS": "No results found",
+        "NO_RESULTS": "Nenhum resultado encontrado",
         "SUCCESSFUL": "Changed priority of conversation id {conversationId} to {priority}",
         "FAILED": "Couldn't change priority. Please try again."
       }
@@ -315,7 +315,7 @@
   "CONVERSATION_PARTICIPANTS": {
     "SIDEBAR_MENU_TITLE": "Participating",
     "SIDEBAR_TITLE": "Conversation participants",
-    "NO_RECORDS_FOUND": "No results found",
+    "NO_RECORDS_FOUND": "Nenhum resultado encontrado",
     "ADD_PARTICIPANTS": "Select participants",
     "REMANING_PARTICIPANTS_TEXT": "+{count} others",
     "REMANING_PARTICIPANT_TEXT": "+{count} other",

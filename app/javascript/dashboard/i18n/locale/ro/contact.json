@@ -86,7 +86,7 @@
       "MESSAGE": "Are you sure you want to export all contacts?",
       "FILTERED_MESSAGE": "Are you sure you want to export all the filtered contacts?",
       "YES": "Yes, Export",
-      "NO": "No, Cancel"
+      "NO": "No, Cancelar"
     }
   },
   "DELETE_NOTE": {

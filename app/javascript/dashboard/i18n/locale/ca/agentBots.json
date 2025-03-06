@@ -33,7 +33,7 @@
     },
     "ADD": {
       "TITLE": "Configura el nou bot",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "API": {
         "SUCCESS_MESSAGE": "Bot afegit correctament.",
         "ERROR_MESSAGE": "No s'ha pogut afegir el bot. Torneu-ho a provar més endavant."
@@ -48,7 +48,7 @@
       "BUTTON_TEXT": "Esborrar",
       "TITLE": "Suprimeix el bot",
       "SUBMIT": "Esborrar",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "DESCRIPTION": "Estàs segur que vols suprimir aquest bot? Aquesta acció és irreversible.",
       "API": {
         "SUCCESS_MESSAGE": "S'ha esborrat el bot correctament.",
@@ -59,7 +59,7 @@
       "BUTTON_TEXT": "Edita",
       "LOADING": "S'estan obtenint bots...",
       "TITLE": "Edita el bot",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "API": {
         "SUCCESS_MESSAGE": "Bot actualitzat correctament.",
         "ERROR_MESSAGE": "No s'ha pogut actualitzar el bot. Torneu-ho a provar."

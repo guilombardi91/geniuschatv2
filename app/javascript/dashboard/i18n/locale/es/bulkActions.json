@@ -26,7 +26,7 @@
       "ASSIGN_LABELS": "Asignar etiqueta",
       "NO_LABELS_FOUND": "No se encontraron etiquetas para",
       "ASSIGN_SELECTED_LABELS": "Asignar etiquetas seleccionadas",
-      "ASSIGN_SUCCESFUL": "Etiquetas asignadas correctamente.",
+      "ASSIGN_SUCCESFUL": "Tags asignadas correctamente.",
       "ASSIGN_FAILED": "Error al asignar etiquetas, inténtalo de nuevo."
     },
     "TEAMS": {

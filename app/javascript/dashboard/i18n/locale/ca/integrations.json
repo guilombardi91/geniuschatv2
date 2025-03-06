@@ -14,7 +14,7 @@
       "SUBSCRIBED_EVENTS": "Esdeveniments subscrits",
       "LEARN_MORE": "Learn more about webhooks",
       "FORM": {
-        "CANCEL": "Cancel·la",
+        "CANCEL": "Cancelar·la",
         "DESC": "Els esdeveniments de Webhook us proporcionen informació en temps real sobre el que passa al vostre compte de Chatwoot. Introduïu una URL vàlid per configurar un callback.",
         "SUBSCRIPTIONS": {
           "LABEL": "Esdeveniments",
@@ -61,7 +61,7 @@
         }
       },
       "ADD": {
-        "CANCEL": "Cancel·la",
+        "CANCEL": "Cancelar·la",
         "TITLE": "Afegir un nou webhook",
         "API": {
           "SUCCESS_MESSAGE": "La configuració del webhook s'ha afegit correctament",
@@ -132,7 +132,7 @@
         "AI_WRITING": "La IA està escrivint",
         "BUTTONS": {
           "APPLY": "Utilitza aquest suggeriment",
-          "CANCEL": "Cancel·la"
+          "CANCEL": "Cancelar·la"
         }
       },
       "CTA_MODAL": {
@@ -161,7 +161,7 @@
       "BUTTONS": {
         "GENERATE": "Genera",
         "GENERATING": "Generant...",
-        "CANCEL": "Cancel·la"
+        "CANCEL": "Cancelar·la"
       },
       "GENERATE_ERROR": "There was an error processing the content, please try again"
     },
@@ -201,14 +201,14 @@
       "CREATE": {
         "HEADER": "Afegeix una aplicació de tauler nova",
         "FORM_SUBMIT": "Envia",
-        "FORM_CANCEL": "Cancel·la",
+        "FORM_CANCEL": "Cancelar·la",
         "API_SUCCESS": "L'aplicació del tauler de control s'ha configurat correctament",
         "API_ERROR": "No hem pogut crear una aplicació. Intenta-ho més tard"
       },
       "UPDATE": {
         "HEADER": "Edita l'aplicació del tauler",
         "FORM_SUBMIT": "Actualitza",
-        "FORM_CANCEL": "Cancel·la",
+        "FORM_CANCEL": "Cancelar·la",
         "API_SUCCESS": "L'aplicació del tauler de control s'ha actualitzat correctament",
         "API_ERROR": "No hem pogut actualitzar l'aplicació. Intenta-ho més tard"
       },
@@ -267,7 +267,7 @@
             "SEARCH": "Cerca prioritat"
           },
           "LABEL": {
-            "LABEL": "Etiqueta",
+            "LABEL": "Tag",
             "PLACEHOLDER": "Selecciona l'etiqueta",
             "SEARCH": "Cerca etiqueta"
           },
@@ -283,7 +283,7 @@
           }
         },
         "CREATE": "Crear",
-        "CANCEL": "Cancel·la",
+        "CANCEL": "Cancelar·la",
         "CREATE_SUCCESS": "Issue creada correctament",
         "CREATE_ERROR": "S'ha produït un error en crear la issue, torna-ho a provar",
         "LOADING_TEAM_ERROR": "S'ha produït un error en obtenir els equips, torna-ho a provar",

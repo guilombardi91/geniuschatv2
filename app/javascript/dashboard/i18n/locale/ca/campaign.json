@@ -9,7 +9,7 @@
     "ADD": {
       "TITLE": "Crea una campanya",
       "DESC": "Els missatges proactius permeten al client enviar missatges de sortida als seus contactes que desencadenarien més converses.",
-      "CANCEL_BUTTON_TEXT": "Cancel·la",
+      "CANCEL_BUTTON_TEXT": "Cancelar·la",
       "CREATE_BUTTON_TEXT": "Crear",
       "FORM": {
         "TITLE": {

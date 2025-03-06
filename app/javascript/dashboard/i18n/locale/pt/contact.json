@@ -23,11 +23,11 @@
     },
     "LABELS": {
       "CONTACT": {
-        "TITLE": "Etiquetas de contacto",
+        "TITLE": "Tags de contacto",
         "ERROR": "Não foi possível atualizar as etiquetas"
       },
       "CONVERSATION": {
-        "TITLE": "Etiquetas da conversa",
+        "TITLE": "Tags da conversa",
         "ADD_BUTTON": "Adicionar etiquetas"
       },
       "LABEL_SELECT": {
@@ -47,7 +47,7 @@
     "EDIT_LABEL": "Editar",
     "SIDEBAR_SECTIONS": {
       "CUSTOM_ATTRIBUTES": "Atributos personalizados",
-      "CONTACT_LABELS": "Etiquetas de contacto",
+      "CONTACT_LABELS": "Tags de contacto",
       "PREVIOUS_CONVERSATIONS": "Conversas anteriores",
       "NO_RECORDS_FOUND": "Nenhum atributo encontrado"
     }

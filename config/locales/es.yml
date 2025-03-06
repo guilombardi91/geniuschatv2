@@ -84,7 +84,7 @@ es:
       avg_first_response_time: Promedio de tiempo de la primera respuesta
       avg_resolution_time: Tiempo promedio de resolución
     label_csv:
-      label_title: Etiqueta
+      label_title: Tag
       conversations_count: Núm. de conversaciones
       avg_first_response_time: Promedio de tiempo de la primera respuesta
       avg_resolution_time: Tiempo promedio de resolución
@@ -103,7 +103,7 @@ es:
       assignee: Cesionario
       team: Equipo
       inbox: Bandeja de entrada
-      labels: Etiquetas
+      labels: Tags
       conversation_link: Enlace a la conversación
       breached_events: Eventos violados
     default_group_by: día

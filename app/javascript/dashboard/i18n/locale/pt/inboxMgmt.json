@@ -551,7 +551,7 @@
       "SET_FIELDS": "Campos do formulário de pré-chat",
       "SET_FIELDS_HEADER": {
         "FIELDS": "Campos",
-        "LABEL": "Etiqueta",
+        "LABEL": "Tag",
         "PLACE_HOLDER": "Placeholder",
         "KEY": "Chave",
         "TYPE": "Tipo",

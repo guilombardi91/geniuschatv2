@@ -5,7 +5,7 @@
       "DISPLAY_DROPDOWN": "Display",
       "LOADING": "Értesítések lekérése",
       "404": "Ebben a csoportban nincsenek aktív értesítések.",
-      "NO_NOTIFICATIONS": "No notifications",
+      "NO_NOTIFICATIONS": "Sem notificações",
       "NOTE": "Értesítés az összes feliratkozott postafiókból",
       "NO_MESSAGES_AVAILABLE": "Oops! Not able to fetch messages",
       "SNOOZED_UNTIL": "Halasztás eddig",
@@ -28,7 +28,7 @@
       "SLA_MISSED_RESOLUTION": "SLA target resolution missed for conversation"
     },
     "MENU_ITEM": {
-      "MARK_AS_READ": "Mark as read",
+      "MARK_AS_READ": "Marcar como lida",
       "MARK_AS_UNREAD": "Megjelölés olvasatlanként",
       "SNOOZE": "Halasztás",
       "DELETE": "Törlés",

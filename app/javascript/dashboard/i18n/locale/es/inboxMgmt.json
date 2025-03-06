@@ -551,7 +551,7 @@
       "SET_FIELDS": "Campos del formulario del chat",
       "SET_FIELDS_HEADER": {
         "FIELDS": "Campos",
-        "LABEL": "Etiqueta",
+        "LABEL": "Tag",
         "PLACE_HOLDER": "Marca de posición",
         "KEY": "Llave",
         "TYPE": "Tipo",

@@ -36,7 +36,7 @@ export const MACRO_ACTION_TYPES = [
   },
   {
     key: 'snooze_conversation',
-    label: 'Snooze conversation',
+    label: 'Adiar conversa',
     inputType: null,
   },
   {
